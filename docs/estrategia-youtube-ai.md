@@ -494,10 +494,28 @@ Cada vídeo debería tener UNA fuente de tráfico primaria en mente:
 
 ## Fase 3: El "Packaging" (Miniatura y Título)
 
-Se crea **antes** de producir el contenido. Es lo que convierte impresiones en visitas.
+Una vez que tienes el nicho validado y la idea viral seleccionada, el siguiente paso crítico es diseñar cómo empaquetar el vídeo. Esto se hace **ANTES de empezar a producir o editar el contenido**.
 
-- **Miniatura:** Descargar la miniatura del vídeo original exitoso con Viralit. Modificar con IA: traducir textos, cambiar colores, sustituir rostros por avatar o imagen propia.
-- **Título:** Analizar el título viral original, traducir al español con ajustes (ej. cambiar "2.000€ en 5 días" por "4.000€ en 7 días").
+**Principio fundamental:** La miniatura está diseñada para llamar la atención del usuario en YouTube, y el título para convertir esa atención en un clic. Si el packaging no convence, a veces es mejor descartar la idea por completo — el contenido interno no importa si la gente no entra a verlo.
+
+**Nota para Shorts:** Este paso es fundamental para vídeos largos. Para Shorts, el título no es relevante porque las visitas provienen del feed al deslizar pantalla. En ese caso, solo poner un título descriptivo sencillo con hashtags y saltar directamente a la producción.
+
+### 1. Creación de la Miniatura con IA
+
+No necesitas ser diseñador gráfico. La estrategia: tomar la miniatura del vídeo viral original y modificarla con IA.
+
+#### Proceso en Viralit
+
+- **Extracción y traducción:** Seleccionar el vídeo de referencia y darle a "usar miniatura". Comando a la IA: *"Cámbiame el texto de inglés a español"*
+- **Modificación de elementos:** La regla es **"copiar, modificar y pegar"**, NO clonar exacto. Pedir que altere detalles visuales: cambiar color de flechas, modificar elementos del fondo, ajustar composición.
+- **Sustitución de rostros:** Si el original muestra una cara, la herramienta permite sustituirla automáticamente. Puedes subir una foto tuya o crear una cara falsa (avatar) para dar un toque humano al canal sin exponerte.
+
+### 2. Creación del Título
+
+Sigue la misma filosofía de adaptación.
+
+- **Traducción y reajuste:** Tomar el título viral que funcionó en inglés, traducirlo al español y hacerle pequeños ajustes.
+- **Ejemplo práctico:** Si el original dice *"How to Make $2,000 in 5 Days"*, adaptar a *"Cómo Generar 4.000€ en 7 Días"*. Mantener la estructura psicológica que atrajo los clics originales, pero con giro propio para que no sea copy-paste idéntico.
 
 ---
 

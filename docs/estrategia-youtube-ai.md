@@ -913,6 +913,8 @@ Una vez dominada la producción, el siguiente paso es lanzar el canal con la con
 
 ### Paso 1: Crear el Canal (Cuenta de Marca)
 
+**Crear una cuenta de Gmail nueva y exclusiva para el canal.** No mezclar con tu correo personal. Guardar correo y contraseña en un lugar seguro.
+
 **Usar siempre una Cuenta de Marca (Brand Account),** no una cuenta personal:
 - Permite múltiples administradores sin compartir credenciales personales
 - El nombre del canal es independiente del nombre de tu cuenta de Google
@@ -920,10 +922,26 @@ Una vez dominada la producción, el siguiente paso es lanzar el canal con la con
 - Se pueden crear varios canales bajo una misma cuenta de Google
 
 **Proceso:**
-1. Ir a youtube.com → Iniciar sesión con cuenta de Google
-2. Clic en el icono de perfil → Configuración → "Añadir o administrar tus canales"
-3. Clic en "Crear un canal" → Introducir el nombre del canal
-4. Esto crea automáticamente una Brand Account
+1. Crear cuenta de Gmail nueva dedicada al canal
+2. Ir a youtube.com → Iniciar sesión con esa cuenta
+3. Clic en el icono de perfil → Configuración → "Añadir o administrar tus canales"
+4. Clic en "Crear un canal" → Introducir el nombre del canal
+5. Esto crea automáticamente una Brand Account
+
+**Nombre del canal:** Si no tienes ideas, pedir a ChatGPT: *"Dime un nombre para mi canal de YouTube de [tu nicho]"*. Buscar algo memorable, fácil de escribir y que transmita la temática (ej: "Salud sin Mitos", "Finanzas Claras").
+
+### Paso 1.5: "Calentamiento" de la Cuenta (CRUCIAL)
+
+**Antes de subir NADA, dedicar unos días a ver contenido de los canales de referencia de tu nicho con la nueva cuenta.**
+
+¿Por qué? Si creas una cuenta desde cero y automáticamente subes vídeos de forma masiva, el algoritmo de YouTube puede detectar un comportamiento inusual y catalogarte como bot o cuenta de spam, limitando tu alcance. Ver vídeos de tu temática "calienta" la cuenta y le indica a YouTube que eres un usuario real interesado en ese nicho.
+
+**Cómo calentar:**
+- Ver vídeos completos (o gran parte) de canales de referencia en tu nicho
+- Dar likes y dejar comentarios en algunos vídeos
+- Suscribirte a los canales principales del nicho
+- Hacer esto durante 3-5 días antes de la primera subida
+- No necesitas dedicar horas: 30-60 minutos al día es suficiente
 
 ### Paso 2: Configuración Visual del Canal
 
@@ -934,6 +952,10 @@ Una vez dominada la producción, el siguiente paso es lanzar el canal con la con
 | **Marca de agua** | 150 × 150 px | PNG transparente. Aparece como botón de suscripción sobre los vídeos |
 
 **Regla del banner:** Mantener texto y logos dentro de la zona segura de 1546×423 px. El banner se recorta de forma diferente en TV (completo), escritorio (centro) y móvil (centro más recortado).
+
+**Truco del banner "Suscríbete":** Usar Canva (gratis) para crear un banner con fondo liso (negro o del color de tu marca) y poner en el centro, muy grande, la palabra **"SUSCRÍBETE"**. Esto actúa como un llamado a la acción visual permanente que incita a suscribirse cuando alguien visita tu perfil. Es simple pero efectivo.
+
+**Logo rápido:** Pedir a ChatGPT (que incluye DALL-E): *"Genérame un logo para mi canal de YouTube de [nicho]"*. Descargar y subir al apartado de personalización en YouTube Studio. No perder horas diseñando — se puede mejorar después.
 
 ### Paso 3: Configuración Esencial del Canal
 
@@ -1010,6 +1032,13 @@ Una vez dominada la producción, el siguiente paso es lanzar el canal con la con
 - Colocar en momentos donde la retención baja (viewers a punto de irse)
 - Máximo 2-4 por vídeo en puntos de transición natural
 
+#### Configuración Crítica al Subir
+
+- **Público objetivo:** Marcar SIEMPRE "No está creado para niños". El contenido infantil paga mucho menos en publicidad y limita funcionalidades (sin comentarios, sin notificaciones, sin minijugador)
+- **Descripción CTA:** Incluir en la descripción: *"Suscríbete para ayudarme a conseguir los 1.000 suscriptores"*. Esto acelera el cumplimiento de los requisitos de monetización
+- **Para Shorts:** El título no es tan vital como en largos (las visitas llegan cuando la gente desliza). Basta con un título sencillo + hashtags relevantes (#naturaleza, #curiosidades, etc.)
+- **Programación:** En lugar de publicar inmediatamente, programar para el día y hora óptimos (ver sección de horarios más abajo). El canal funciona en piloto automático
+
 ### Paso 5: Estrategia de Publicación y Constancia
 
 #### Frecuencia de Subida
@@ -1058,65 +1087,373 @@ Los Shorts son una herramienta de **crecimiento**, no de ingresos:
 
 **Usar la función de programación de YouTube** (YouTube Studio → Contenido → Subir → "Programar" en vez de "Publicar") para mantener consistencia incluso durante descansos.
 
-### Paso 6: Analytics — Qué Medir y Cuándo
+### Paso 6: Analytics — La Ciencia Detrás del Crecimiento
 
-#### Cuándo Empezar a Analizar
+Este es el paso que separa a los canales que crecen de los que se estancan. No se trata de mirar números al azar, sino de entender qué te está diciendo YouTube sobre tu contenido y tomar decisiones basadas en datos.
 
-**Los primeros 10 vídeos:** Enfocarse SOLO en velocidad de producción y consistencia. Ignorar métricas.
+#### 6.1 Cuándo Empezar a Analizar (y Cuándo NO)
 
-**Después de 10-20 vídeos:** Empezar a buscar patrones relativos (qué vídeos rinden mejor/peor y por qué).
+| Fase | Vídeos publicados | Qué hacer |
+|------|-------------------|-----------|
+| **Fase de construcción** | 0-10 | **IGNORAR métricas.** Enfocarse SOLO en velocidad de producción y consistencia. Crear contenido es lo único que importa |
+| **Fase de patrones** | 10-20 | Empezar a buscar patrones relativos: ¿qué vídeos rinden mejor/peor y por qué? |
+| **Fase de optimización** | 20+ | Análisis semanal sistemático. Optimizar basándose en datos reales |
 
 **Umbrales mínimos para análisis fiable:**
 - CTR: Mínimo 1.000 impresiones por vídeo
 - Retención: Mínimo 100 vistas por vídeo
 - Tendencias del canal: 28+ días de datos, 30+ vídeos publicados
 
-**¿Por qué el análisis temprano engaña?** Las muestras pequeñas crean ruido, no señal. El CTR empieza artificialmente alto (se muestra primero a suscriptores, luego cae). YouTube aún está aprendiendo a qué audiencia mostrar tu contenido.
+**¿Por qué el análisis temprano engaña?** Las muestras pequeñas crean ruido, no señal. El CTR empieza artificialmente alto (se muestra primero a suscriptores, luego cae). YouTube aún está aprendiendo a qué audiencia mostrar tu contenido. **El mayor error analítico: gastar tiempo analizando en vez de creando.** Un vídeo más enseña más que 10 horas de revisión de analytics.
 
-#### Métricas Clave (por orden de importancia)
+#### 6.2 La Métrica Reina: Retención (Deep Dive)
 
-1. **CTR (Click-Through Rate):**
-   - % de personas que clican tu thumbnail al verla
-   - Media en YouTube: 2-10%
-   - Bueno para canales nuevos: 4-6%
-   - Excelente: 8-10%+
-   - El CTR baja naturalmente cuando YouTube muestra el vídeo a audiencias más amplias (es normal)
+La retención es **la métrica más importante** para el algoritmo. YouTube muestra dos gráficos de retención:
 
-2. **Retención / Duración Media de Visualización (AVD):**
-   - Cuánto tiempo ven los viewers antes de irse
-   - **Objetivo: 50%+ de la duración del vídeo**
-   - Para vídeo de 30 min: 15+ minutos de media es excelente
-   - **La métrica más importante para que el algoritmo recomiende tu contenido**
-   - Revisar el gráfico de retención para identificar puntos de abandono
+**Retención Absoluta:** Porcentaje de viewers que siguen viendo en cada momento del vídeo. Siempre empieza en 100% y baja. Cuanto más suave la caída, mejor.
 
-3. **Impresiones:**
-   - Cuántas veces YouTube mostró tu thumbnail
-   - Crecimiento en impresiones = YouTube está empujando tu contenido más
-   - Comparar tendencia semanal/mensual
+**Retención Relativa (MÁS IMPORTANTE):** Compara tu retención contra TODOS los vídeos de YouTube de duración similar. Muestra "Por encima de la media", "Media" o "Por debajo de la media" en cada punto. **YouTube usa retención relativa, no absoluta, para decidir recomendaciones.** Un vídeo de 30 min con 40% de retención absoluta puede ser excelente (por encima de la media para esa duración).
 
-4. **Fuentes de tráfico:**
-   - Entender de dónde vienen los viewers: Búsqueda, Sugeridos, Navegación (Home), Externos
-   - Los canales faceless suelen crecer más por Browse (Home) y Suggested que por Search
+**Cómo encontrarla:** YouTube Studio → Analytics del vídeo → Engagement → "Cómo se compara tu vídeo con vídeos típicos de YouTube de duración similar"
 
-5. **Tasa de conversión a suscriptores:**
-   - Nuevos suscriptores por vídeo
-   - Vídeos que generan suscripciones señalan alto valor para YouTube
+##### Patrones de Curva de Retención y Qué Significan
 
-#### Cómo Funciona el Algoritmo de YouTube (2025-2026)
+**1. "Declive saludable" (OBJETIVO):**
+Caída gradual y constante, sin caídas bruscas, termina en 40-60%. Indica contenido consistentemente engaging.
 
-El algoritmo optimiza para **satisfacción del viewer**, medida por:
-1. **CTR:** ¿La gente clica cuando ve tu vídeo?
-2. **Watch time / Retención:** ¿La gente mira, y durante cuánto tiempo?
-3. **Engagement:** Likes, comentarios, compartidos, guardados
-4. **Tiempo de sesión:** ¿Tu vídeo lleva al viewer a ver MÁS YouTube?
-5. **Señales de satisfacción:** Encuestas, viewers que vuelven
+**2. "Caída en precipicio" (primeros 30 segundos):**
+Caída brusca del 30-50% en los primeros 30 seg, luego se estabiliza. Indica: hook débil / thumbnail-título sobreprometió / intro demasiado lenta. **Solución:** Reescribir los primeros 30 segundos. Empezar con la conclusión, no con la introducción.
 
-**Insights clave 2025-2026:**
-- YouTube empuja el contenido long-form (8+ min) más que nunca por los ingresos publicitarios
-- La pestaña "Nuevo para ti" da oportunidad a canales nuevos
-- El algoritmo de Shorts es independiente del de long-form
-- La consistencia (subidas regulares) entrena al algoritmo para promover tu contenido
-- Las primeras 24-48 horas post-subida son cruciales: engagement alto temprano = más promoción
+**3. "Montaña rusa" (picos y valles):**
+Subidas y bajadas alternando. Los picos = viewers rebobinando (buena señal). Los valles = viewers saltando adelante (contenido aburrido en esas zonas). **Solución:** Identificar qué hay en los picos y crear más contenido así. Eliminar o acortar lo que hay en los valles.
+
+**4. "Meseta y caída" (mid-video drop):**
+Retención estable y luego caída masiva en un punto específico. Indica que el viewer ya obtuvo lo que buscaba o que hubo un cambio de tema que perdió interés. **Solución:** Distribuir el valor más importante a lo largo del vídeo, no concentrarlo al principio.
+
+**5. "Picos por encima del 100%":**
+Cuando la retención sube por encima del 100% en ciertos puntos = viewers rebobinando para ver de nuevo. **Esta es una señal de oro.** Crear más contenido como lo que hay en esos momentos.
+
+##### Benchmarks de Retención por Duración de Vídeo
+
+| Duración | Retención Buena | Excelente | Pobre |
+|----------|----------------|-----------|-------|
+| Menos de 5 min | 60-70% | 70%+ | Menos de 50% |
+| 5-10 min | 50-60% | 60%+ | Menos de 40% |
+| 10-20 min | 40-55% | 55%+ | Menos de 35% |
+| 20-30 min | 35-50% | 50%+ | Menos de 30% |
+| 30-60 min | 30-45% | 45%+ | Menos de 25% |
+
+##### Los Primeros 30 Segundos: La Puerta de Entrada
+
+**Los primeros 30 segundos son desproporcionadamente importantes:**
+- YouTube mide la "retención de intro" por separado
+- Si el 50%+ de viewers se va en los primeros 30 segundos, el vídeo es suprimido algorítmicamente SIN IMPORTAR la calidad del resto
+- El algoritmo usa la retención temprana como "filtro de calidad" — los vídeos deben pasar este test para recibir distribución amplia
+- **Objetivo: menos del 25% de abandono en los primeros 30 segundos**
+
+**Reglas del primer frame:**
+- Empezar con la afirmación más impactante o el visual más llamativo
+- Evitar intros de canal, logos o "Hola chicos, bienvenidos de nuevo"
+- El primer frame del vídeo es lo que se muestra durante el autoplay — hacerlo cautivador
+
+##### "Key Moments" de YouTube (Función Automática)
+
+YouTube identifica automáticamente estos momentos en tu gráfico de retención:
+- **Intro:** Análisis de los primeros 30 segundos
+- **Picos (Spikes):** Momentos con tasa inusualmente alta de rebobinado
+- **Valles (Dips):** Momentos donde muchos viewers saltan adelante
+- **Momentos top:** Segmentos con mayor engagement (especialmente relevante para Shorts)
+
+**Cómo usar estos datos:** Estudiar los picos para crear más contenido similar. Arreglar los valles identificando qué causa el abandono. Probar diferentes estilos de intro y monitorizar cambios en retención de intro.
+
+#### 6.3 CTR (Click-Through Rate): La Puerta de Entrada
+
+##### Cómo Cambia el CTR en el Ciclo de Vida del Vídeo
+
+**Fase 1 — Push a suscriptores (0-24h):** Vídeo mostrado principalmente a suscriptores. CTR más alto (8-15%). Son tus viewers más leales que clican casi todo.
+
+**Fase 2 — Distribución amplia (1-7 días):** YouTube empieza a mostrar a no-suscriptores via Home y Sugeridos. CTR baja significativamente (4-8%). **Esto es normal y saludable** — significa que YouTube está expandiendo tu audiencia.
+
+**Fase 3 — Long-tail (7+ días):** Vídeo se estabiliza en su CTR a largo plazo (3-6%). Tráfico principalmente de Búsqueda y Sugeridos. Contenido evergreen mantiene CTR estable; trending baja más.
+
+**Insight crítico:** Una bajada de CTR con el tiempo NO es mala señal. Es consecuencia natural de que YouTube muestre tu vídeo a audiencias más amplias. Juzgar el CTR de las primeras 48 horas contra la media del canal, no contra las métricas all-time.
+
+##### Benchmarks de CTR por Fuente de Tráfico
+
+| Fuente de Tráfico | CTR Medio | Bueno | Excelente |
+|-------------------|-----------|-------|-----------|
+| **Browse (Home)** | 3-6% | 6-8% | 8%+ |
+| **Sugeridos** | 2-5% | 5-7% | 7%+ |
+| **Búsqueda YouTube** | 4-8% | 8-12% | 12%+ |
+| **Página del canal** | 8-15% | 15-20% | 20%+ |
+| **Fuentes externas** | 1-3% | 3-5% | 5%+ |
+| **Notificaciones** | 15-30% | 30-40% | 40%+ |
+
+**Importante:** El CTR de Búsqueda es naturalmente más alto porque los usuarios tienen intención específica. No comparar CTR de Búsqueda con CTR de Browse — son fundamentalmente diferentes.
+
+##### La Relación CTR × AVD: Lo Que YouTube Realmente Mide
+
+YouTube usa CTR y AVD (Average View Duration) juntos, no por separado:
+
+| CTR | AVD | Resultado | Acción |
+|-----|-----|-----------|--------|
+| **Alto** | **Alto** | YouTube empuja el vídeo agresivamente. El packaging atrajo clics Y el contenido cumplió la promesa | Replicar esta fórmula |
+| **Alto** | **Bajo** | Señal de clickbait. YouTube empuja inicialmente y luego suprime. **Daña el canal a largo plazo** | Mejorar el contenido o moderar el packaging |
+| **Bajo** | **Alto** | "Joya escondida". YouTube lo empujará lentamente con el tiempo | Rediseñar thumbnail/título. El contenido es bueno pero el packaging falla |
+| **Bajo** | **Bajo** | Vídeo muerto. Ni el packaging ni el contenido funcionan | Rehacer significativamente o pasar al siguiente |
+
+**La fórmula que le importa a YouTube:** CTR × AVD = Tiempo total de visualización comprometida por impresión. Esta es la métrica que más directamente determina la promoción algorítmica.
+
+##### A/B Testing de Thumbnails (Función Nativa de YouTube)
+
+**Disponible desde finales de 2024 para canales con 1.000+ suscriptores (expandido en 2025):**
+- Subir hasta 3 thumbnails diferentes para un mismo vídeo
+- YouTube muestra cada una a una porción de viewers y mide el "watch time share" (no solo CTR)
+- Tras recopilar datos suficientes (1-2 semanas), YouTube declara ganador
+- El thumbnail ganador se usa exclusivamente a partir de ese momento
+
+**Mejores prácticas:**
+- Probar conceptos significativamente diferentes, no ajustes menores
+- Dejar que las pruebas se ejecuten completamente — no declarar ganador antes de tiempo
+- YouTube mide "watch time share", no solo CTR — un thumbnail con menos clics pero que lleva a sesiones más largas puede ganar
+- Testear una variable a la vez si es posible
+
+##### El Embudo de Impresiones
+
+```
+Impresiones (YouTube muestra tu thumbnail)
+    ↓ CTR (% que clican)
+Vistas (personas que empiezan a ver)
+    ↓ Retención (% que siguen viendo)
+Tiempo de visualización (minutos totales)
+    ↓ Engagement (likes, comentarios, compartidos)
+Boost algorítmico (más impresiones)
+    ↓ (el ciclo se repite)
+```
+
+**Dónde optimizar según el cuello de botella:**
+- **Pocas impresiones** → YouTube no sabe a quién mostrar tu contenido. Mejorar metadata, mayor consistencia de nicho, considerar pivote de tema
+- **CTR bajo** → Thumbnail/título no son suficientemente atractivos. Rediseñar, reescribir, hacer A/B test
+- **Retención baja** → El contenido no cumple la promesa. Mejores hooks, edición más ajustada, más pattern interrupts
+- **Bajo engagement** → El contenido no inspira acción. Hacer preguntas, crear opiniones (dentro de guidelines), CTAs más fuertes
+
+#### 6.4 Cómo Funciona el Algoritmo de YouTube (2025-2026)
+
+##### El Sistema de Recomendación en 3 Fases
+
+**1. Generación de candidatos:** De millones de vídeos, el sistema reduce a ~1.000 candidatos para cada usuario usando collaborative filtering ("usuarios que vieron vídeos similares a los tuyos también vieron X") y señales de contenido (metadata, análisis de transcripción, análisis visual).
+
+**2. Ranking:** Los ~1.000 candidatos se ordenan por tiempo de visualización predicho y satisfacción predicha. Factores: comportamiento pasado del usuario con contenido similar, métricas del vídeo, frescura y señales de diversidad.
+
+**3. Re-ranking:** Ajustes finales para diversidad (no demasiados vídeos similares), frescura y cumplimiento de políticas.
+
+##### El Modelo de Satisfacción (Actual, 2023-2026)
+
+YouTube evolucionó de un modelo puramente de engagement a un modelo de **satisfacción**:
+- Encuestas post-visualización ("¿Valió la pena este vídeo?")
+- "Valued watch time" (tiempo viendo contenido con el que estás satisfecho)
+- Viewers que vuelven (¿la gente vuelve a canales que ve?)
+- Tasa de compartición
+- **Señal negativa clave:** Si el viewer cierra YouTube después de ver tu vídeo = mala señal. Los vídeos que mantienen a la gente EN YouTube (no solo viendo tu vídeo) reciben boost
+
+**Implicaciones prácticas:**
+- Los vídeos que generan que la gente comparta, guarde o vuelva reciben boost
+- Los vídeos que causan que la gente cierre YouTube son suprimidos
+- Contenido polémico que genera engagement pero no satisfacción es deprioritizado
+
+##### Cómo YouTube Determina la Audiencia para Vídeos Nuevos
+
+| Fase | Tiempo | Qué pasa | Qué mide YouTube |
+|------|--------|----------|------------------|
+| **1. Seed inicial** | 0-2 horas | Mostrado a muestra pequeña de suscriptores y viewers recientes | CTR inicial y retención temprana |
+| **2. Testing** | 2-48 horas | Si Fase 1 fue bien → mostrado a audiencia más amplia del "interest graph" (gente que ve temas similares pero no está suscrita) | CTR, retención y engagement contra esta nueva audiencia |
+| **3. Escalado** | 2-14 días | Si Fase 2 fue bien → audiencias aún más amplias. Aquí es donde los vídeos pueden "viralizarse" | Métricas consistentes en audiencias diversas |
+| **4. Long-tail** | 14+ días | El vídeo se estabiliza. Tráfico principalmente por Búsqueda y Sugeridos | Contenido evergreen puede seguir ganando vistas meses/años |
+
+##### Autoridad Temática (E-E-A-T para YouTube)
+
+YouTube implementa señales de autoridad temática cada vez más fuertes:
+- **Señal de consistencia:** Canales que publican consistentemente sobre el mismo tema obtienen preferencia en ese tema
+- **Señal de profundidad:** Vídeos más largos y comprehensivos sobre un tema señalan expertise
+- **Señal de retorno:** Si los viewers vuelven a tu canal por el mismo tema, YouTube te ve como autoridad
+- **Señal cruzada:** Si fuentes externas autoritativas enlazan a tus vídeos, boost de autoridad
+
+**Para canales faceless:** Esto hace que el enfoque en nicho sea AÚN MÁS importante. No crear contenido aleatorio entre temas — mantenerse en el nicho consistentemente.
+
+##### Session Starts y Session Time
+
+**Session start:** Cuando tu vídeo es el primero que alguien ve en una sesión de YouTube. Señal muy positiva — significa que la gente vino específicamente a YouTube para ver tu contenido.
+
+**Session time:** Cuánto tiempo total de YouTube genera tu vídeo (incluyendo los vídeos que ven después). Si la gente ve tu vídeo y luego sigue viendo otros, YouTube le atribuye a tu vídeo toda la sesión.
+
+**Optimización:**
+- End screens enlazando a playlists aumentan el session time
+- Sugerir un "siguiente vídeo" al final mantiene a los viewers en sesión
+- NUNCA incluir links externos al FINAL del vídeo (genera abandono de sesión)
+
+##### Algoritmo de Shorts vs Long-Form
+
+| Aspecto | Long-Form | Shorts |
+|---------|-----------|--------|
+| **Métrica principal** | Watch time y retención | Swipe-away rate (la más importante) |
+| **Matching de temas** | Muy importante | Menos importante (Shorts se distribuyen más ampliamente) |
+| **Velocidad de testing** | Días | Horas |
+| **Potencial viral** | Gradual | Explosivo (0 a millones en 24h) |
+| **Rol de la búsqueda** | Importante | Mínimo |
+
+**Cross-pollination:** Los Shorts pueden generar suscriptores que luego ven tu contenido largo. Pero los algoritmos no se potencian directamente entre sí — un Short viral NO hace que tu siguiente vídeo largo rinda mejor algorítmicamente.
+
+##### Cómo YouTube Detecta el "AI Slop"
+
+YouTube busca estas señales:
+- **Patrones de plantilla:** Vídeos con estructura idéntica en cientos de subidas
+- **Huellas de voz sintética:** Ciertos TTS tienen artefactos detectables
+- **Reutilización de stock:** Mismos clips apareciendo en muchos vídeos/canales
+- **Bajo engagement relativo:** Muchas vistas pero ratio comentarios/vistas anormalmente bajo
+- **Patrones de subida rápida:** Docenas de vídeos en periodos cortos con variación mínima
+- **Similaridad de contenido:** Contenido cuasi-duplicado entre canales
+
+**Cómo evitar detección:** Personalizar cada vídeo, añadir voz editorial genuina, variar el enfoque visual, responder comentarios, mantener frecuencia de subida humana (3-5/semana, no 10+/día).
+
+#### 6.5 Fuentes de Tráfico: De Dónde Vienen las Vistas
+
+| Fuente | % típico del tráfico | Cómo optimizar |
+|--------|---------------------|----------------|
+| **Browse (Home)** | 30-50% | Thumbnails fuertes, nicho consistente, crear hábitos de visualización. **Principal motor de crecimiento para canales faceless** |
+| **Sugeridos** | 20-40% | Metadata similar a vídeos populares del nicho, crear series/playlists, buenos end screens. Crear contenido sobre temas similares a canales grandes (con tu ángulo único) |
+| **Búsqueda YouTube** | 10-25% | Títulos y descripciones ricos en keywords, targeting de keywords con volumen pero poca competencia. El contenido evergreen prospera aquí |
+| **Fuentes externas** | 5-15% | Compartir en Reddit, foros, redes sociales relevantes. YouTube valora el tráfico externo como señal de descubrimiento |
+| **Shorts Feed** | Variable | Fuente separada. Puede generar crecimiento masivo de suscriptores que indirectamente ayuda al long-form |
+
+#### 6.6 Analytics Avanzado
+
+##### Ingresos: RPM vs CPM y Patrones Estacionales
+
+- **CPM:** Lo que pagan los anunciantes por 1.000 impresiones de anuncio. No lo controlas
+- **RPM:** Tus ganancias reales por 1.000 vistas (después de la comisión de YouTube y descontando vistas sin anuncios). **Este es TU métrico**
+
+**Patrones estacionales del CPM/RPM:**
+| Periodo | Efecto | Razón |
+|---------|--------|-------|
+| **Enero** | Baja 30-50% | Anunciantes agotan presupuestos en Q4, resetean en Q1 |
+| **Febrero-Marzo** | Recuperación gradual | Nuevos presupuestos trimestrales |
+| **Abril-Septiembre** | Niveles moderados y estables | Gasto publicitario regular |
+| **Octubre** | Empieza a subir | Campañas navideñas comienzan |
+| **Noviembre-Diciembre (Q4)** | Pico máximo: 50-200% más alto que enero | Black Friday, Navidad, cierre de año fiscal |
+
+**RPM geográfico aproximado (contenido en español, 2025-2026):**
+| Región | RPM aproximado |
+|--------|---------------|
+| Estados Unidos (audiencia hispana) | $5-$15 |
+| España | $2-$8 |
+| México | $1-$4 |
+| Colombia/Argentina/Chile | $0.50-$3 |
+| Resto de Latinoamérica | $0.30-$2 |
+
+##### Viewers que Vuelven (Returning Viewers)
+
+- **Definición:** % de viewers que ya han visto tu canal antes
+- **Objetivo para canal en crecimiento:** 20-30%+
+- **Returning muy alto (80%+) con pocas vistas totales** = solo llegas a tu audiencia existente (necesitas más discovery)
+- **Returning muy bajo (menos del 10%)** = los viewers no vuelven (problema de contenido o nicho)
+
+##### Las Primeras 48 Horas: Qué Te Dicen
+
+| Momento | Qué indica |
+|---------|------------|
+| **Primera hora** | Vistas = lealtad de suscriptores. Principalmente suscriptores y notificaciones |
+| **2-6 horas** | YouTube empieza a testear con audiencias más amplias. Si las vistas aceleran = buena señal |
+| **24 horas** | Si las vistas siguen subiendo = el vídeo está recibiendo tráfico de Browse/Suggested |
+| **48 horas** | Indicador fiable de la trayectoria a largo plazo del vídeo |
+
+**Banderas rojas en primeras 48h:** Vistas se estancan después del push inicial a suscriptores = el vídeo falló el test de audiencia amplia. Muchas vistas pero cayendo rápidamente = YouTube lo testeó ampliamente pero la retención/engagement fue pobre.
+
+#### 6.7 Framework de Métricas por Etapa del Canal
+
+##### 0-100 Suscriptores
+- **Foco:** Consistencia y velocidad de producción
+- **Monitorizar:** Frecuencia de subida (objetivo 3-4/semana)
+- **Ignorar:** CTR, RPM, impresiones (demasiado pequeño para ser significativo)
+- **Meta:** Construir una biblioteca de 20-30 vídeos
+
+##### 100-1.000 Suscriptores
+- **Foco:** Encontrar tu "fórmula ganadora"
+- **Monitorizar:** Retención relativa (¿qué vídeos retienen mejor?), vistas por vídeo (¿qué temas generan más vistas?)
+- **Empezar a testear:** Diferentes estilos de thumbnail, fórmulas de título, formatos de contenido
+- **Meta:** Identificar tu top 20% de vídeos y entender por qué superan al resto
+
+##### 1.000-10.000 Suscriptores
+- **Foco:** Optimizar y escalar lo que funciona
+- **Monitorizar:** Tendencias de CTR (semanal), tendencias de AVD, tasa de conversión a suscriptores, distribución de fuentes de tráfico
+- **Optimizar:** A/B test de thumbnails, refinar estructura de contenido basándose en datos de retención
+- **Meta:** Crecimiento consistente en impresiones mes a mes
+
+##### 10.000-100.000 Suscriptores
+- **Foco:** Construcción de audiencia y diversificación
+- **Monitorizar:** Tendencias de RPM, demografía de audiencia (optimizar para regiones con RPM más alto), balance returning vs nuevos viewers
+- **Avanzado:** Optimización de ingresos (ubicación de anuncios, mid-rolls), negociación de patrocinios usando datos de analytics
+- **Meta:** Crecimiento sostenible + ingresos significativos
+
+#### 6.8 Señales de Alerta y Señales Positivas
+
+##### Banderas Rojas (Señales de Supresión Algorítmica)
+- Impresiones bajando vídeo tras vídeo durante 3+ subidas consecutivas
+- CTR consistentemente por debajo del 2% (en todas las fuentes de tráfico)
+- AVD por debajo del 30% durante 5+ vídeos consecutivos
+- Vistas por vídeo decreciendo mes a mes
+- Suscriptores estancados o bajando
+- "Anuncios limitados o sin anuncios" en múltiples vídeos (problema de guidelines)
+- Ratio comentarios/vistas anormalmente bajo (menos del 0.5%)
+
+##### Banderas Verdes (Señales de Vídeo Breakout)
+- Impresiones creciendo hora tras hora en las primeras 24 horas
+- CTR por encima de la media del canal en 2+ puntos porcentuales
+- AVD por encima del 50% (para cualquier duración de vídeo)
+- Vistas superando el número de suscriptores en 48 horas
+- Comentarios y compartidos más altos de lo habitual
+- Pico en nuevos suscriptores por día
+- Tráfico de Browse Features superando el 40%
+
+#### 6.9 Errores Comunes de Analytics
+
+**1. Comparar con "medias de YouTube":** La "media de CTR" de YouTube (~4-5%) incluye todo tipo de vídeo de todo nicho. Nichos visuales (viajes, comida) tienen CTR naturalmente más alto. Nichos educativos/business tienen CTR más bajo pero mayor retención y RPM. **Comparar SIEMPRE con tu propia media de canal y con canales similares de tu nicho.**
+
+**2. Alarmarse por la caída de CTR:** Los vídeos nuevos SIEMPRE empiezan con CTR alto (push a suscriptores) y luego baja. Un vídeo que pasa de 12% CTR a 5% CTR significa que YouTube expandió tu audiencia (¡bien!). Solo preocuparse si el CTR es consistentemente inferior a la media del canal.
+
+**3. La Paradoja del Vídeo Viral:** Los vídeos virales suelen tener CTR MÁS BAJO que la media. ¿Por qué? YouTube los muestra a millones que no conocen tu canal. Un vídeo con 3% CTR y 2 millones de impresiones es mucho más exitoso que uno con 10% CTR y 5.000 impresiones. **Vistas totales = Impresiones × CTR. Un CTR más bajo con muchas más impresiones gana siempre.**
+
+**4. Parálisis por análisis:** No revisar analytics más de una vez al día (una vez por semana es ideal). Se necesitan 10+ vídeos para que los patrones sean significativos. El rendimiento de un solo vídeo no es una tendencia — mirar promedios de 5+ vídeos. **Regla: 90% del tiempo creando, 10% analizando.**
+
+**5. Sobre-optimizar una métrica:** Optimizar solo CTR → clickbait → daña retención → supresión. Optimizar solo retención → thumbnails aburridas → bajo CTR → sin impresiones. **Equilibrar las tres: CTR (packaging) × AVD (calidad) × Engagement (satisfacción).**
+
+#### 6.10 Checklist Semanal de Analytics (15 minutos cada lunes)
+
+1. ☐ Vistas totales y horas de visualización (tendencia semana vs semana)
+2. ☐ CTR de las subidas de la semana pasada (comparar con media del canal)
+3. ☐ Gráficos de retención de las subidas de la semana pasada (identificar drop-offs)
+4. ☐ Vídeo top de la semana (¿por qué funcionó?)
+5. ☐ Tasa de crecimiento de suscriptores (tendencia semanal)
+6. ☐ Revisar comentarios buscando ideas de contenido y feedback
+7. ☐ Anotar vídeos que bajo-rindieron significativamente (analizar por qué)
+
+**Revisión mensual (30 minutos):**
+1. ☐ Análisis de ingresos (si monetizado): tendencias RPM, desglose geográfico
+2. ☐ Fuentes de tráfico: ¿cambios en de dónde vienen las vistas?
+3. ☐ Demografía de audiencia: ¿cambios en edad, género, geografía?
+4. ☐ Auditoría de contenido: ¿qué temas/formatos generaron más crecimiento?
+5. ☐ Planificar calendario de contenido del próximo mes basándose en datos
+
+#### 6.11 YouTube Studio: Guía Rápida de las Pestañas
+
+| Pestaña | Qué muestra | Para qué usarla |
+|---------|-------------|-----------------|
+| **Resumen** | Vistas, watch time, suscriptores, ingresos, top content | Vista rápida del estado del canal |
+| **Alcance** | Impresiones, CTR, vistas, viewers únicos, fuentes de tráfico | Diagnosticar problemas de descubrimiento |
+| **Engagement** | Watch time, AVD, top vídeos, top playlists, retención por vídeo | Optimizar contenido y estructura |
+| **Audiencia** | Returning vs nuevos, cuándo están online, demografía, **otros canales que ve tu audiencia** | Programar subidas, entender competencia, ideas de contenido |
+| **Ingresos** | RPM, CPM, fuentes de ingreso, top vídeos por ingresos, tipos de anuncio | Optimizar monetización |
+
+**Joya oculta:** La pestaña Audiencia → "Otros canales que ve tu audiencia" y "Otros vídeos que vio tu audiencia" son minas de oro para ideas de contenido e inteligencia competitiva.
 
 #### Cuándo y Cómo Pivotar
 

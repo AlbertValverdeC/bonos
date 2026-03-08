@@ -1259,6 +1259,14 @@ Los Shorts monetizan poco directamente. Su valor real es como **puerta de entrad
 
 Este es el paso que separa a los canales que crecen de los que se estancan. No se trata de mirar números al azar, sino de entender qué te está diciendo YouTube sobre tu contenido y tomar decisiones basadas en datos.
 
+**La mentalidad correcta (3 reglas de oro):**
+
+1. **La regla de los 30 días:** Comprométete a publicar contenido de forma constante durante 30 días seguidos ANTES de sacar conclusiones. No analices CTR ni impresiones en vídeos con apenas 100 vistas — los datos no son estadísticamente relevantes. El algoritmo necesita volumen de contenido para empezar a recomendarte. Es completamente normal que los primeros vídeos tengan cero visitas.
+
+2. **Hacer más de lo que funciona (La regla de oro):** Cuando evalúes un bloque de vídeos (ej: 4 ideas subidas en una semana), probablemente 1 funcione bien y 3 no. El error del novato es inventar algo nuevo. **La estrategia correcta: analizar POR QUÉ funcionó ese único vídeo y hacer MÁS de eso.** YouTube se basa en oferta y demanda — dale a la audiencia lo que ya demostró querer.
+
+3. **Cero apego emocional:** No te enamores de tu canal ni le tengas apego. Si después de 30 días aplicando la estrategia tu canal sigue sin despegar, probablemente elegiste mal el nicho (Paso 1). **Abandona, crea otro canal nuevo y vuelve a empezar.** Los creadores exitosos de canales faceless han abierto decenas de canales que fracasaron — el secreto es la creación constante de nuevos canales hasta dar con los que despegan.
+
 #### 6.1 Cuándo Empezar a Analizar (y Cuándo NO)
 
 | Fase | Vídeos publicados | Qué hacer |
@@ -1693,7 +1701,9 @@ YouTube busca estas señales:
 4. **Pivote completo:** Nuevo canal en un nicho totalmente diferente (mantener el antiguo — puede crecer más tarde)
 5. **Testear antes de comprometerse:** Subir 5 vídeos en la nueva dirección antes de pivotar completamente. Si la retención supera el 50%, has encontrado señal
 
-**Compromiso mínimo antes de pivotar:** 6 meses con subidas consistentes (1-2/semana). Pivotar antes no da datos suficientes para saber si el problema es el nicho o la ejecución.
+**Compromiso mínimo antes de pivotar:** 30 días con subidas consistentes como mínimo absoluto; idealmente 6 meses con 1-2/semana. Pivotar antes no da datos suficientes para saber si el problema es el nicho o la ejecución.
+
+**Mentalidad de "portfolio de canales":** Los creadores exitosos de canales faceless tratan cada canal como un activo en un portfolio. No se aferran a uno que no funciona. Abren múltiples canales, prueban nichos, y duplican esfuerzo en los que despegan. El objetivo es crear "activos digitales" que generen ingresos en piloto automático — y para eso necesitas encontrar los que funcionan, no salvar los que no.
 
 ### Paso 7: Monetización
 

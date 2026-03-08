@@ -909,16 +909,369 @@ Con práctica, este pipeline baja a 45-60 minutos por vídeo. Con plataformas al
 
 ## Fase 5: Creación de la Cuenta, Configuración y Publicación
 
-**PLACEHOLDER_FASE_5**
+Una vez dominada la producción, el siguiente paso es lanzar el canal con la configuración correcta, publicar con estrategia y escalar con datos.
+
+### Paso 1: Crear el Canal (Cuenta de Marca)
+
+**Usar siempre una Cuenta de Marca (Brand Account),** no una cuenta personal:
+- Permite múltiples administradores sin compartir credenciales personales
+- El nombre del canal es independiente del nombre de tu cuenta de Google
+- Separa la actividad personal de la del canal
+- Se pueden crear varios canales bajo una misma cuenta de Google
+
+**Proceso:**
+1. Ir a youtube.com → Iniciar sesión con cuenta de Google
+2. Clic en el icono de perfil → Configuración → "Añadir o administrar tus canales"
+3. Clic en "Crear un canal" → Introducir el nombre del canal
+4. Esto crea automáticamente una Brand Account
+
+### Paso 2: Configuración Visual del Canal
+
+| Elemento | Tamaño recomendado | Notas |
+|----------|-------------------|-------|
+| **Foto de perfil** | 800 × 800 px | Se muestra como círculo. JPG, PNG. Máx 4 MB |
+| **Banner** | 2560 × 1440 px | Zona segura (visible en todos los dispositivos): 1546 × 423 px centrada. Máx 6 MB |
+| **Marca de agua** | 150 × 150 px | PNG transparente. Aparece como botón de suscripción sobre los vídeos |
+
+**Regla del banner:** Mantener texto y logos dentro de la zona segura de 1546×423 px. El banner se recorta de forma diferente en TV (completo), escritorio (centro) y móvil (centro más recortado).
+
+### Paso 3: Configuración Esencial del Canal
+
+**País/Región:** Establecer el país de la audiencia objetivo, no necesariamente donde vives. Para contenido en español dirigido a varios países, España o México son las opciones más comunes según el dialecto.
+
+**Palabras clave del canal:** Añadir 5-7 keywords amplias que describan la temática. Ejemplo para un canal de finanzas: `finanzas personales, inversión, ahorro, dinero, educación financiera`. Ayudan a YouTube a entender de qué trata tu canal.
+
+**Ajustes predeterminados de subida (ahorra tiempo en cada publicación):**
+- YouTube Studio → Configuración → Valores predeterminados de subida
+- Configurar plantilla de título, descripción con links recurrentes (redes, afiliados), tags, visibilidad, categoría e idioma
+- Establecer preferencias de comentarios y licencia
+
+**Descripción del canal:**
+- Los primeros 150 caracteres son cruciales (aparecen en resultados de búsqueda)
+- Incluir keywords principales de forma natural
+- Describir qué puede esperar el viewer (tipo de contenido, frecuencia)
+- Incluir un CTA ("Suscríbete para vídeos semanales sobre...")
+- Añadir enlaces relevantes
+
+**Organización de la página del canal:**
+- Crear secciones: Subidas populares, Subidas recientes, Playlists
+- Crear un tráiler del canal para no-suscriptores (30-60 segundos explicando el canal)
+- Vídeo destacado para suscriptores que vuelven
+
+### Paso 4: SEO y Optimización de Cada Subida
+
+#### Título
+
+- **Longitud:** Máximo 60-70 caracteres (se trunca en móvil después de ~60)
+- **Cargar las keywords al principio** del título
+- **Incluir números** cuando sea posible ("7 Formas de...", "En 5 Minutos")
+- **Palabras de poder:** "Definitivo", "Completo", "Secreto", "Probado", "Gratis"
+- **Crear curiosidad:** "Lo Que Pasa Cuando..." o "La Verdad Sobre..."
+
+**Fórmulas probadas:**
+- [Número] + [Adjetivo] + [Keyword] + [Promesa] → "7 Formas Probadas de Ahorrar Dinero Rápido"
+- [Cómo] + [Keyword] + [Beneficio] → "Cómo Invertir en Bolsa (Incluso Con 100€)"
+- [Keyword] + [Gancho de Curiosidad] → "Ingresos Pasivos: Lo Que Nadie Te Cuenta"
+
+#### Descripción del Vídeo
+
+**Estructura óptima:**
+1. **Primeras 2-3 líneas (visible sin expandir):** Keyword principal + resumen que enganche. Esto aparece en resultados de búsqueda.
+2. **Timestamps/Capítulos:** YouTube los convierte en capítulos clicables:
+   ```
+   0:00 Introducción
+   1:30 Primer Punto Clave
+   5:00 El Dato Más Importante
+   ```
+3. **Cuerpo:** 200-500 palabras expandiendo el tema con keywords naturales
+4. **Sección de enlaces:** Afiliados, redes sociales, vídeos relacionados
+5. **Texto por defecto:** Descripción del canal
+
+**Densidad de keywords:** Usar la keyword principal 2-4 veces de forma natural. Incluir 3-5 keywords relacionadas/sinónimos.
+
+#### Tags, Hashtags y Elementos Interactivos
+
+**Tags:** Impacto directo limitado en SEO (2025-2026), pero ayudan a YouTube a entender el contexto:
+- Primer tag = keyword principal exacta
+- 2-3 tags específicos long-tail
+- 2-3 tags de categoría amplia
+- Total: 5-8 tags (no sobrepasarse)
+
+**Hashtags:** Añadir hasta 3 en título o descripción. Los primeros 3 de la descripción aparecen sobre el título del vídeo. Más de 15 = YouTube los ignora todos.
+
+**End Screens (últimos 5-20 segundos):**
+- Botón de suscripción
+- Link al vídeo con mejor rendimiento o al más relevante como siguiente
+- Link a una playlist
+- Diseñar el outro del vídeo dejando espacio visual para estos elementos
+
+**Cards (tarjetas):**
+- Aparecen como notificaciones durante el vídeo
+- Colocar en momentos donde la retención baja (viewers a punto de irse)
+- Máximo 2-4 por vídeo en puntos de transición natural
+
+### Paso 5: Estrategia de Publicación y Constancia
+
+#### Frecuencia de Subida
+
+| Nivel | Frecuencia | Resultado esperado |
+|-------|------------|-------------------|
+| **Mínimo viable** | 1 vídeo/semana (consistente) | Crecimiento lento pero sostenido |
+| **Recomendado** | 2-3 vídeos largos/semana | Crecimiento 2x más rápido que 1/semana |
+| **Agresivo** | 3-4 largos + Shorts diarios | Máximo crecimiento posible |
+
+**Dato clave:** Canales que publican 2+ veces/semana crecen en suscriptores al doble de velocidad que los de 1/semana. Pero la consistencia importa más que la frecuencia: 1 vídeo/semana SIEMPRE es mejor que 5 vídeos una semana y luego silencio.
+
+#### Mejores Horarios de Publicación
+
+**Regla general:** Subir 2-3 horas ANTES del pico de audiencia (YouTube necesita tiempo para indexar y empezar a recomendar).
+
+- **Entre semana:** 14:00-16:00 hora local de la audiencia
+- **Fines de semana:** 9:00-11:00
+- **Mejores días:** Jueves y viernes (los vídeos ganan momentum hacia el fin de semana)
+
+**Para audiencia hispanohablante:**
+- España: 14:00-16:00 CET entre semana, 10:00-12:00 fines de semana
+- México/Latinoamérica: 13:00-15:00 CST entre semana
+
+**Importante:** Después de 30+ días de subidas, YouTube Studio → Analytics → Audiencia muestra cuándo TU audiencia específica está online. Usar esos datos reales en vez de guías genéricas.
+
+#### Estrategia de Shorts Junto a Long-Form
+
+Los Shorts son una herramienta de **crecimiento**, no de ingresos:
+- RPM de Shorts: $0.01-$0.15/1000 vistas vs $3-$30 en long-form
+- Pero aceleran enormemente el crecimiento de suscriptores
+- Extraer 3-5 Shorts de cada vídeo largo con Opus Clip
+- Crear Shorts originales sobre temas trending del nicho
+- Publicar Shorts diarios o cada 2 días
+- Siempre incluir CTA apuntando al contenido largo
+
+#### Batching de Producción (Ejemplo Semanal para 4 Vídeos)
+
+| Día | Tarea | Dedicación |
+|-----|-------|------------|
+| **Lunes** | Investigación + guion de 4 vídeos | Día completo |
+| **Martes** | Generar todas las locuciones + descargar stock | Medio día |
+| **Miércoles** | Editar vídeos 1 y 2 | Día completo |
+| **Jueves** | Editar vídeos 3 y 4 + crear thumbnails | Día completo |
+| **Viernes** | Upload, programar, extraer Shorts | Medio día |
+
+**Usar la función de programación de YouTube** (YouTube Studio → Contenido → Subir → "Programar" en vez de "Publicar") para mantener consistencia incluso durante descansos.
+
+### Paso 6: Analytics — Qué Medir y Cuándo
+
+#### Cuándo Empezar a Analizar
+
+**Los primeros 10 vídeos:** Enfocarse SOLO en velocidad de producción y consistencia. Ignorar métricas.
+
+**Después de 10-20 vídeos:** Empezar a buscar patrones relativos (qué vídeos rinden mejor/peor y por qué).
+
+**Umbrales mínimos para análisis fiable:**
+- CTR: Mínimo 1.000 impresiones por vídeo
+- Retención: Mínimo 100 vistas por vídeo
+- Tendencias del canal: 28+ días de datos, 30+ vídeos publicados
+
+**¿Por qué el análisis temprano engaña?** Las muestras pequeñas crean ruido, no señal. El CTR empieza artificialmente alto (se muestra primero a suscriptores, luego cae). YouTube aún está aprendiendo a qué audiencia mostrar tu contenido.
+
+#### Métricas Clave (por orden de importancia)
+
+1. **CTR (Click-Through Rate):**
+   - % de personas que clican tu thumbnail al verla
+   - Media en YouTube: 2-10%
+   - Bueno para canales nuevos: 4-6%
+   - Excelente: 8-10%+
+   - El CTR baja naturalmente cuando YouTube muestra el vídeo a audiencias más amplias (es normal)
+
+2. **Retención / Duración Media de Visualización (AVD):**
+   - Cuánto tiempo ven los viewers antes de irse
+   - **Objetivo: 50%+ de la duración del vídeo**
+   - Para vídeo de 30 min: 15+ minutos de media es excelente
+   - **La métrica más importante para que el algoritmo recomiende tu contenido**
+   - Revisar el gráfico de retención para identificar puntos de abandono
+
+3. **Impresiones:**
+   - Cuántas veces YouTube mostró tu thumbnail
+   - Crecimiento en impresiones = YouTube está empujando tu contenido más
+   - Comparar tendencia semanal/mensual
+
+4. **Fuentes de tráfico:**
+   - Entender de dónde vienen los viewers: Búsqueda, Sugeridos, Navegación (Home), Externos
+   - Los canales faceless suelen crecer más por Browse (Home) y Suggested que por Search
+
+5. **Tasa de conversión a suscriptores:**
+   - Nuevos suscriptores por vídeo
+   - Vídeos que generan suscripciones señalan alto valor para YouTube
+
+#### Cómo Funciona el Algoritmo de YouTube (2025-2026)
+
+El algoritmo optimiza para **satisfacción del viewer**, medida por:
+1. **CTR:** ¿La gente clica cuando ve tu vídeo?
+2. **Watch time / Retención:** ¿La gente mira, y durante cuánto tiempo?
+3. **Engagement:** Likes, comentarios, compartidos, guardados
+4. **Tiempo de sesión:** ¿Tu vídeo lleva al viewer a ver MÁS YouTube?
+5. **Señales de satisfacción:** Encuestas, viewers que vuelven
+
+**Insights clave 2025-2026:**
+- YouTube empuja el contenido long-form (8+ min) más que nunca por los ingresos publicitarios
+- La pestaña "Nuevo para ti" da oportunidad a canales nuevos
+- El algoritmo de Shorts es independiente del de long-form
+- La consistencia (subidas regulares) entrena al algoritmo para promover tu contenido
+- Las primeras 24-48 horas post-subida son cruciales: engagement alto temprano = más promoción
+
+#### Cuándo y Cómo Pivotar
+
+**Señales de que hay que pivotar:**
+- 50+ vídeos publicados con < 500 suscriptores
+- Vistas por vídeo decreciendo con el tiempo
+- CTR consistentemente por debajo del 2% a pesar de mejorar thumbnails/títulos
+- Retención consistentemente por debajo del 30%
+- Ningún vídeo despuntando (todos rinden igual de mal)
+
+**Cómo pivotar (de menor a mayor cambio):**
+1. **Micro-pivote:** Mismo nicho, diferente ángulo o formato de contenido
+2. **Nicho adyacente:** Tema relacionado con mejores métricas (ej: "inversión" → "inversión inmobiliaria")
+3. **Pivote completo:** Nuevo canal en un nicho totalmente diferente (mantener el antiguo — puede crecer más tarde)
+4. **Testear antes de comprometerse:** Subir 5 vídeos en la nueva dirección antes de pivotar completamente
+
+### Paso 7: Monetización
+
+#### YouTube Partner Program (YPP) — Requisitos 2025-2026
+
+| Nivel | Requisitos | Desbloquea |
+|-------|-----------|------------|
+| **Tier 1 (Financiación de fans)** | 500 suscriptores + 3 subidas públicas en 90 días + (3.000 horas de visualización en 12 meses O 3M vistas de Shorts en 90 días) | Super Chat, Super Thanks, Membresías, Shopping |
+| **Tier 2 (Ingresos por anuncios)** | 1.000 suscriptores + (4.000 horas de visualización en 12 meses O 10M vistas de Shorts en 90 días) | Todo lo de Tier 1 + Reparto de ingresos publicitarios |
+
+**Notas importantes:**
+- Las horas de visualización de Shorts NO cuentan para el umbral de 4.000 horas (solo para la vía específica de Shorts)
+- Las horas de transmisiones en directo SÍ cuentan
+- Vídeos ocultos/privados NO cuentan
+- No tener strikes activos de Community Guidelines
+- Proceso de revisión: típicamente 1-4 semanas tras solicitar
+
+**Configuración de AdSense:**
+- Al ser aprobado en YPP, se te pide crear o vincular una cuenta de AdSense
+- Umbral mínimo de pago: $100
+- Pago mensual (alrededor del 21-26 del mes siguiente)
+- Información fiscal necesaria (W-8BEN para creadores no-estadounidenses)
+
+#### Monetización Adicional (Más Allá de AdSense)
+
+**Marketing de afiliados (el más relevante para canales faceless):**
+- Amazon Associates: 1-10% de comisión según categoría
+- Afiliados de finanzas (tarjetas, brokers): $50-$200+ por conversión
+- Afiliados de software (VPN, hosting, herramientas): $30-$100+ por venta
+- Colocar links de afiliados en la descripción con disclosure claro
+- Crear vídeos tipo "mejor X" o "review" enfocados en productos afiliados
+
+**Patrocinios:**
+- Disponibles típicamente desde 10.000+ suscriptores
+- Los canales faceless SÍ consiguen patrocinios (los sponsors miran vistas y nicho, no la cara)
+- Tarifa aproximada: $10-$50 por cada 1.000 vistas para integraciones
+- Patrocinadores comunes para faceless: VPNs, cursos online, apps de finanzas, herramientas de IA
+
+**Productos digitales:**
+- Vender cursos, ebooks, plantillas o guías relacionadas con tu nicho
+- Plataformas: Gumroad, Teachable, Hotmart (mercado hispano)
+- Enlazar en descripciones y comentarios fijados
+- Muy rentable una vez establecida autoridad en el nicho
+
+### Paso 8: Consideraciones Legales y Políticas
+
+#### Divulgación de Contenido IA (Política de YouTube)
+
+**Requiere divulgación obligatoria:**
+- Contenido realista generado/modificado por IA que pueda confundirse con metraje real
+- Voces sintéticas que suenan como personas reales identificables
+- Rostros/cuerpos de personas reales alterados por IA
+- Eventos generados por IA que parecen noticias reales
+
+**NO requiere divulgación:**
+- Guiones o ideas generadas por IA
+- Voces claramente sintéticas que no imitan a nadie real
+- Música de fondo generada por IA
+- Uso de IA para edición, corrección de color o efectos
+- Thumbnails generados por IA
+- Subtítulos auto-generados
+
+**Cómo divulgar:** Al subir → YouTube Studio → "Contenido alterado o sintético" → Seleccionar "Sí".
+
+**Consecuencias de no divulgar:** Eliminación del contenido, distribución reducida, strikes, desmonetización.
+
+#### Copyright: Reglas de Oro
+
+- **Stock footage CC0 (Pexels, Pixabay):** Libre para uso comercial sin atribución ✓
+- **Royalty-Free (Storyblocks, Shutterstock):** Pagas una vez, usas siempre ✓
+- **Música:** SIEMPRE usar librerías royalty-free. Epidemic Sound y Artlist ofrecen cero reclamaciones de Content ID. YouTube Audio Library es 100% seguro
+- **NUNCA usar clips con copyright** (películas, TV, contenido de otros YouTubers) sin permiso
+
+#### Política de "AI Slop" (Julio 2025)
+
+YouTube requiere que el contenido sea **"significativamente original y auténtico"**. Canales que suben cientos de vídeos idénticos generados por IA masivamente enfrentan distribución reducida. Cada vídeo necesita aporte creativo original demostrable: síntesis original de información, ángulos únicos o presentación novedosa.
+
+**Buenas prácticas:**
+- Añadir valor genuino y análisis original a cada vídeo
+- No simplemente reempaquetar la misma información que otros canales
+- Mantener control de calidad — revisar y personalizar cada output de IA
+- Variar el formato y temas dentro del nicho
+- Responder comentarios y construir comunidad
+
+#### Estrategia Multi-Canal
+
+- YouTube permite múltiples canales bajo una cuenta de Google
+- **Recomendación:** Empezar con UN canal. Probar que el modelo funciona. Luego expandir
+- No necesitas cuentas de AdSense separadas (una sirve para todos)
+- El contenido debe ser único por canal (no re-subir el mismo vídeo)
+- Considerar contratar/externalizar para canales adicionales cuando el primero sea rentable
+
+**Cuándo lanzar un segundo canal:**
+- El primer canal está monetizado y creciendo consistentemente
+- Has sistematizado el workflow de producción
+- Has identificado otro nicho con alto potencial
+- Tienes capacidad (o presupuesto para externalizar) sin descuidar el canal 1
+
+### Timeline Realista: De Cero a Monetización
+
+| Hito | Timeline típico (3-4 vídeos/semana) | Notas |
+|------|--------------------------------------|-------|
+| Primeros 100 suscriptores | 1-3 meses | La fase más dura. La mayoría abandona aquí |
+| 500 suscriptores | 2-4 meses | Desbloquea pestaña Comunidad + Tier 1 YPP |
+| 1.000 suscriptores | 3-6 meses | Primer umbral de monetización completa |
+| 4.000 horas de visualización | 3-8 meses | Depende mucho de duración de vídeos y retención |
+| Monetización aprobada | 4-9 meses | Tras cumplir ambos umbrales + revisión |
+| 10.000 suscriptores | 6-18 meses | Canal ganando tracción real |
+| 100.000 suscriptores | 1-3+ años | Requiere calidad consistente y autoridad en el nicho |
+
+**Aceleran el crecimiento:** Nicho con RPM alto y demanda probada, estrategia de Shorts, CTR > 6%, vídeos > 15 min, temas trending dentro del nicho.
+
+**Frenan el crecimiento:** Nicho saturado con competencia establecida, temas con bajo volumen de búsqueda, horario de subidas inconsistente, retención < 30%.
 
 ---
 
-## Stack de Herramientas
+## Stack de Herramientas Recomendado
 
-| Herramienta | Uso |
-|-------------|-----|
-| Viralit | Búsqueda de nichos, outliers y miniaturas |
-| ChatGPT | Generación de guiones |
-| ElevenLabs | Text-to-speech realista |
-| CapCut | Edición de vídeo y subtítulos automáticos |
-| YouTube Studio | Publicación y análisis de métricas |
+### Por Fase del Proceso
+
+| Fase | Herramienta Principal | Alternativas |
+|------|----------------------|-------------|
+| **Investigación de nicho** | Viralit | TubeBuddy, VidIQ, Social Blade |
+| **Ideación viral** | Viralit (outliers) | VidIQ Keyword Tool, Google Trends |
+| **Packaging (título + thumbnail)** | Canva + ChatGPT | Midjourney (thumbnails premium), DALL-E 3 |
+| **Guion** | ChatGPT (GPT-4o) | Claude (guiones largos), Subscribr AI, Gemini |
+| **Locución** | ElevenLabs | Fish Audio S1 (más barato), Chatterbox (gratis) |
+| **Stock footage** | Pexels + Pixabay | Storyblocks (premium), Mixkit |
+| **Edición** | CapCut | Descript (edición por texto), DaVinci Resolve (gratis/pro) |
+| **Subtítulos** | CapCut Auto Captions | Kapwing, Submagic |
+| **Shorts** | Opus Clip | CapCut (manual) |
+| **Música** | YouTube Audio Library | Epidemic Sound ($9.99/mes), Uppbeat |
+| **SEO/Analytics** | YouTube Studio | VidIQ, TubeBuddy |
+| **Thumbnails IA** | DALL-E 3 (ChatGPT) | Midjourney, Flux 2 Pro, Ideogram V3 |
+| **Vídeo IA (avanzado)** | InVideo AI | Sora 2, Kling 3.0, Runway Gen-4.5 |
+
+### Por Presupuesto Mensual
+
+| Presupuesto | Stack | Costo |
+|-------------|-------|-------|
+| **Mínimo** | ChatGPT Plus + Fish Audio/Chatterbox + CapCut gratis + Pexels/Pixabay + Canva gratis | ~$20-30/mes |
+| **Intermedio** | ChatGPT Plus + Subscribr + ElevenLabs + Descript + Canva Pro + Envato Elements | ~$60-100/mes |
+| **Profesional** | Claude Pro + Subscribr Pro + ElevenLabs Pro + Premiere + Storyblocks + Opus Clip + Midjourney | ~$150-300/mes |

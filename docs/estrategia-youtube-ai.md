@@ -6,6 +6,57 @@ Alcanzar los requisitos de monetización de YouTube (1.000 suscriptores y 4.000 
 
 ---
 
+## Índice
+
+### Fase 1: Selección del Nicho
+- Método de 3 Pasos para Elegir Nicho
+- 25 Nichos Rentables para Canales Faceless
+- Herramientas de Investigación de Nicho
+
+### Fase 2: Selección de Ideas Virales
+- Método Outlier para Encontrar Ideas
+- Reutilización Inteligente de Ideas
+- Investigación con Herramientas
+
+### Fase 3: El "Packaging" (Miniatura y Título)
+- Creación de Miniatura (IA + Diseño)
+- Creación del Título (Fórmulas de Alto CTR)
+- El "Triángulo de Tensión"
+
+### Fase 4: Producción del Contenido con IA
+- Pilar 1: Guion con IA (ChatGPT, Claude, Subscribr)
+- Pilar 2: Locución con IA (ElevenLabs, Fish Audio, Chatterbox)
+- Pilar 3: Contenido Visual (Stock + IA)
+- Pilar 4: Edición Final con CapCut
+- Plataformas All-in-One (InVideo AI, HeyGen, Synthesia)
+- Pipeline Completo: De Idea a Vídeo Publicado
+
+### Fase 5: Creación de la Cuenta, Configuración y Publicación
+- Paso 1: Crear el Canal (Cuenta de Marca)
+- Paso 1.5: "Calentamiento" de la Cuenta
+- Paso 2: Configuración Visual del Canal
+- Paso 3: Configuración Esencial del Canal
+- Paso 4: SEO y Optimización de Cada Subida
+- Paso 5: Estrategia de Publicación y Constancia
+- Paso 5.5: Estrategia de YouTube Shorts
+- Paso 6: Analytics — La Ciencia Detrás del Crecimiento
+- Paso 7: Monetización (RPM/CPM por nicho y país, mid-roll ads, impuestos)
+- Paso 8: Consideraciones Legales y Políticas
+
+### Fase 6: Escalado — De Canal a Negocio
+- Paso 9: Automatización del Pipeline
+- Paso 10: Delegación y Outsourcing
+- Paso 11: Estrategia Multi-Canal
+- Paso 12: Repurposing de Contenido
+- Paso 13: Estructura Empresarial
+- Paso 14: Growth Hacking Avanzado
+
+### Apéndice
+- Timeline Realista: De Cero a Monetización
+- Stack de Herramientas Recomendado
+
+---
+
 ## Fase 1: Selección del Nicho (El 80-90% del éxito)
 
 La elección de la temática del canal es el paso más crítico de toda la estrategia. El 80-90% del éxito y los resultados provienen de hacer una buena selección en esta fase.
@@ -2064,7 +2115,7 @@ Una vez que tu canal está monetizado y creciendo, el siguiente paso es converti
 
 **Dato:** El 83% de los creadores ya usan IA en su workflow (2025). Las herramientas de automatización pueden manejar hasta el 90% de las tareas de producción. Un workflow manual de 5 horas se puede comprimir a un sprint de 45 minutos con las herramientas correctas.
 
-### 9.1 Automatización del Pipeline de Producción
+### Paso 9: Automatización del Pipeline de Producción
 
 #### Qué Se Puede Automatizar (y Qué No)
 
@@ -2100,7 +2151,7 @@ Permite uploads programáticos, configuración de metadata, gestión de playlist
 - Gratis vía Google Cloud Console
 - Requiere OAuth 2.0 para operaciones de gestión del canal
 
-### 9.2 Delegación y Outsourcing
+### Paso 10: Delegación y Outsourcing
 
 #### Qué Externalizar Primero (Orden de Prioridad)
 
@@ -2152,7 +2203,7 @@ Para escalar necesitas documentar CADA paso del proceso:
 - Usar límites de revisiones en contratos (típicamente 2-3 rondas)
 - Construir una rúbrica de puntuación para cada entregable
 
-### 9.3 Estrategia Multi-Canal
+### Paso 11: Estrategia Multi-Canal
 
 #### Cuándo Lanzar un Segundo Canal
 
@@ -2206,7 +2257,7 @@ Sin embargo:
 
 **Adegbenga Adefemi** — Construyó 3 canales faceless (documentales, industria alimentaria, temas legales), ganando aproximadamente **$250.000/mes combinados** con un equipo remoto y automatización.
 
-### 9.4 Repurposing de Contenido
+### Paso 12: Repurposing de Contenido
 
 #### Long-Form → Shorts
 
@@ -2228,7 +2279,7 @@ Sin embargo:
 
 **Caso de estudio:** Gary Vaynerchuk convierte 1 hora de keynote en **64 piezas de contenido** en múltiples plataformas. La mayoría de operadores reportan **3-5x más valor** de cada pieza de contenido con repurposing sistemático.
 
-### 9.5 Estructura Empresarial
+### Paso 13: Estructura Empresarial
 
 #### Cuándo Formalizar (LLC / SL)
 
@@ -2264,7 +2315,7 @@ Sin embargo:
 - Costes adicionales: beneficios, seguros, impuestos
 - Considerar cuando operas 5+ canales con staff dedicado
 
-### 9.6 Growth Hacking Avanzado
+### Paso 14: Growth Hacking Avanzado
 
 #### Comunidad Sin Mostrar la Cara
 
@@ -2293,7 +2344,7 @@ YouTube debe ser el **tope del funnel**, no tu única fuente de ingresos:
 5. **Membresías** — YouTube Memberships, Patreon o comunidades privadas
 6. **Consulting/Coaching** — Una vez construida autoridad, ofrecer consultoría pagada
 
-### 9.7 Errores Comunes al Escalar
+### Errores Comunes al Escalar
 
 1. **Contratar antes de tener SOPs** — Nuevos contratados sin guía, la calidad cae
 2. **Escalar volumen sobre calidad** — 2 vídeos excelentes > 10 mediocres. El algoritmo prioriza engagement y retención sobre frecuencia

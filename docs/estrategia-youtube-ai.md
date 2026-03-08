@@ -1707,7 +1707,9 @@ YouTube busca estas señales:
 
 ### Paso 7: Monetización
 
-#### YouTube Partner Program (YPP) — Requisitos 2025-2026
+**Dato de contexto:** Los ingresos publicitarios globales de YouTube alcanzaron los **$60 mil millones en 2025**. Los canales faceless representan el **38% de las nuevas ventures de monetización** (vs 22% en 2023). Solo el 9% de creadores independientes ganan más de $100K/año; el 71% gana menos de $30K/año. Elegir bien el nicho y la geografía de audiencia puede significar una diferencia de **5x en ingresos** con las mismas vistas.
+
+#### 7.1 YouTube Partner Program (YPP) — Requisitos 2025-2026
 
 | Nivel | Requisitos | Desbloquea |
 |-------|-----------|------------|
@@ -1734,26 +1736,244 @@ YouTube busca estas señales:
 - Pago mensual (alrededor del 21-26 del mes siguiente)
 - Información fiscal necesaria (W-8BEN para creadores no-estadounidenses)
 
-#### Monetización Adicional (Más Allá de AdSense)
+#### 7.2 RPM y CPM por Nicho (Datos Concretos 2025-2026)
 
-**Marketing de afiliados (el más relevante para canales faceless):**
+**CPM** = lo que pagan los anunciantes por 1.000 impresiones de anuncio (antes del corte de YouTube). **RPM** = lo que realmente gana el creador por 1.000 vistas (después del 45% de YouTube y contando vistas no-monetizadas).
+
+| Nicho | CPM (USD) | RPM (USD) | Notas |
+|-------|-----------|-----------|-------|
+| **Finanzas/Inversión** | $12-$50 | $9-$40+ | El nicho mejor pagado. Tarjetas de crédito/inversión llegan a $30-45 RPM en Q4 |
+| **Inmobiliario** | $12-$30 | $8-$10 | Análisis de mercado inmobiliario e inversión |
+| **Tecnología/Gadgets** | $15-$30 | $7-$14 | Reviews de software/SaaS: $10-25 CPM |
+| **Educación** | $10-$25 | $8-$15 | Plataformas de cursos (Coursera, Skillshare) pagan bien |
+| **Ciencia** | $10-$25 | $8-$14 | Similar a educación. Kurzgesagt: $194K-583K/mes |
+| **True Crime** | $5-$15 | $4-$12 | Estilo documental gana 30-50% más CPM que comentario casual |
+| **Historia/Documentales** | $8-$15 | $4-$6 | Mezclar historia con economía mejora RPM |
+| **Cocina/Comida** | $6-$12 | $6-$12 | Marcas de alimentos, equipamiento de cocina |
+| **Viajes** | $4-$12 | $6-$12 | Muy estacional. Contenido de tarjetas de viaje sube RPM |
+| **Superación Personal** | $2.50-$10 | $2-$9 | Estoicismo ~$6 RPM. Anime self-improvement: $2-4.50 RPM |
+| **Entretenimiento** | $2-$8 | $3-$7 | Análisis cine/TV: $4-7 CPM. Comedia: $1-4 CPM |
+| **Gaming** | $1.40-$15 | $2-$5 | Audiencia joven = tarifas bajas. Reviews para adultos: $6-10 RPM |
+
+**Dato clave:** Un canal de finanzas con audiencia US a $10 RPM gana **6x más** que un canal de gaming a $1.50 RPM con las mismas vistas.
+
+#### 7.3 RPM/CPM por País (Top 20)
+
+| # | País | CPM Estimado (USD) |
+|---|------|-------------------|
+| 1 | Australia | $36-$40 |
+| 2 | Estados Unidos | $32-$36 |
+| 3 | Canadá | $29-$32 |
+| 4 | Nueva Zelanda | $28-$31 |
+| 5 | Suiza | $23-$25 |
+| 6 | Reino Unido | $23-$24 |
+| 7 | Alemania | $22-$24 |
+| 8 | Noruega | $20-$43 |
+| 9 | Irlanda | ~$19.50 |
+| 10 | Dinamarca | ~$17.49 |
+| 11 | Suecia | $16-$19 |
+| 12 | Finlandia | ~$15.80 |
+| 13 | Países Bajos | $6-$18 |
+| 14 | España | ~$14.22 |
+| 15 | Portugal | ~$10.32 |
+| 16 | Francia | $3.90-$9.88 |
+| 17 | Japón | $2.93-$11.25 |
+| 18 | Brasil | ~$1.64 |
+| 19 | Filipinas | ~$1.12 |
+| 20 | India | ~$0.74-$0.77 |
+
+**CPM medio global (2026):** ~$3.50. **CPM medio global (2025):** $7.84 (subió desde $7.27 en 2024).
+
+**Implicación estratégica:** El CPM de USA ($36) es **47x mayor** que el de India ($0.77). Un canal con 80% de audiencia india puede promediar $3-4 CPM, mientras que uno con audiencia US/Australia/UK puede estar en $18-22 CPM — **5-6x más ingresos con las mismas vistas.** Por eso elegir el idioma y la audiencia objetivo es tan importante como elegir el nicho.
+
+#### 7.4 Estacionalidad: CPM Mes a Mes
+
+| Mes | CPM Reportado | Patrón |
+|-----|--------------|--------|
+| **Enero** | ~$1.98 | Caída más profunda del año. Anunciantes resetean presupuestos post-navidad |
+| **Febrero** | Bajo | Recuperación lenta desde enero |
+| **Marzo** | Moderado | Marcas activan nuevos presupuestos anuales |
+| **Abril** | ~$6.33 | Recuperación fuerte. Temporada de impuestos impulsa anuncios financieros |
+| **Mayo** | ~$6.30 | Gasto de presupuesto Q2 continúa |
+| **Junio** | Moderado | Fin de Q2, algo de gasto pre-verano |
+| **Julio** | Baja | Empieza el bajón de verano |
+| **Agosto** | ~$1.76 | Punto más bajo del verano |
+| **Septiembre** | Recuperación | Vuelta al cole; anunciantes preparan Q4 |
+| **Octubre** | Subiendo | Empieza la rampa de Q4 |
+| **Noviembre** | Alto | Black Friday/Cyber Monday. Surge de gasto publicitario |
+| **Diciembre** | ~$5.70 media, pico $6.93 | Mes más alto. Compras navideñas + gasto de presupuesto anual. Finanzas supera $25 CPM |
+
+**Diferencia:** Puede haber hasta **3x** entre el mes más bajo (enero/agosto) y el más alto (diciembre). **Publicar tu mejor contenido en enero en vez de Q4 deja dinero significativo en la mesa.**
+
+**Resumen trimestral:**
+- **Q1 (Ene-Mar):** Más bajo. RPM finanzas: $8-15
+- **Q2 (Abr-Jun):** Recuperación. RPM finanzas: $12-18
+- **Q3 (Jul-Sep):** Bajón veraniego. RPM finanzas: $10-14
+- **Q4 (Oct-Dic):** Pico. RPM finanzas: $18-30+. Gasto publicitario digital 25-35% superior a la media anual
+
+#### 7.5 Optimización de Mid-Roll Ads
+
+**Actualización mayo 2025:** YouTube cambió significativamente los mid-rolls, priorizando colocación en pausas naturales (cambios de escena, transiciones de tema) en vez de intervalos arbitrarios.
+
+**Cambios clave:**
+- **Sistema de feedback en tiempo real:** YouTube marca con indicador rojo las colocaciones intrusivas. Slots marcados tienen menos probabilidad de servir anuncios
+- **Colocación híbrida (NUEVO):** Combinar manual + automático. Colocaciones manuales en pausas naturales + IA de YouTube rellenando huecos. Este método híbrido **aumenta ingresos ~5%** vs solo manual
+- **Los slots NO garantizan anuncios.** YouTube decide cuáles se llenan basándose en experiencia del viewer, ingresos del creador y valor del anunciante
+
+**¿Cuántos mid-rolls para un vídeo de 30 minutos?**
+- Guía de YouTube: slot cada ~2 minutos (= ~15 slots para 30 min), pero solo una fracción servirá anuncios
+- **Enfoque práctico:** 4-6 mid-rolls manuales en pausas naturales de contenido + activar colocación automática
+- **Crítico:** Revisar datos de retención primero. Si los viewers abandonan en el minuto 18, un mid-roll en el minuto 20 es inútil
+
+**Best practices:**
+1. Colocar ads en **pausas naturales**: cambios de escena, transiciones de tema, pausas deliberadas en narración
+2. **NUNCA** colocar mid-rolls en medio de frases, secuencias de acción o momentos clave
+3. Usar el **sistema híbrido** (manual + auto) para el ~5% extra de ingresos
+4. Colocar ads en momentos de **tensión construida** — después de un cliffhanger mantiene al viewer viendo a través del anuncio
+5. Evitar colocar ads después de puntos de caída de retención masiva
+
+**¿Más mid-rolls = más ingresos?** No necesariamente. Creadores que apilaron 10-20 mid-rolls vieron viewers abandonar el vídeo, dañando tanto retención como ingresos. Hay un punto óptimo donde añadir más ads empieza a DECRECER ingresos totales.
+
+#### 7.6 Monetización Adicional (Más Allá de AdSense)
+
+##### Marketing de Afiliados (El Más Relevante para Faceless)
+
+- **Cero requisito de suscriptores** — puedes empezar desde el día uno
 - Amazon Associates: 1-10% de comisión según categoría
+- Programas SaaS de alta comisión: **20-60% recurrente** (NordVPN, plataformas de hosting)
 - Afiliados de finanzas (tarjetas, brokers): $50-$200+ por conversión
-- Afiliados de software (VPN, hosting, herramientas): $30-$100+ por venta
-- Colocar links de afiliados en la descripción con disclosure claro
+- Afiliados de software (herramientas IA, editing tools): $30-$100+ por venta
+- **Frecuentemente supera los ingresos de AdSense** en canales faceless exitosos
+- Colocar links en descripción con disclosure claro
 - Crear vídeos tipo "mejor X" o "review" enfocados en productos afiliados
 
-**Patrocinios:**
-- Disponibles típicamente desde 10.000+ suscriptores
-- Los canales faceless SÍ consiguen patrocinios (los sponsors miran vistas y nicho, no la cara)
-- Tarifa aproximada: $10-$50 por cada 1.000 vistas para integraciones
+##### Patrocinios
+
+| Tier | Suscriptores | Tarifa por Vídeo Patrocinado |
+|------|-------------|------------------------------|
+| Nano | 1K-10K | $50-$300 |
+| Nano/Micro | 10K-50K | $200-$2.000 |
+| Micro | 50K-100K | $200-$5.000 |
+| Mid-Tier | 100K-500K | $5.000-$15.000 |
+| Macro | 500K-1M | Nivel management profesional |
+| Mega | 1M+ | $20.000-$300.000+ |
+
+- Los canales faceless SÍ consiguen patrocinios (sponsors miran vistas y nicho, no la cara)
+- **Penalización faceless:** Marcas típicamente pagan 10-25% menos por integraciones faceless (menor trust)
+- **El nicho importa más que el tamaño:** Contenido de finanzas cobra $20-50 CPM por sponsorship vs gaming $5-15 CPM. Un canal de 100K con 7% engagement gana más que uno de 500K con 0.5%
+- Vídeos dedicados (todo el vídeo sobre el producto) cuestan 2-3x una mención integrada
 - Patrocinadores comunes para faceless: VPNs, cursos online, apps de finanzas, herramientas de IA
 
-**Productos digitales:**
-- Vender cursos, ebooks, plantillas o guías relacionadas con tu nicho
+##### Productos Digitales
+
+- **Los que mejor venden para faceless:** Cursos online (Udemy, Gumroad, Teachable), plantillas de vídeo, motion graphics, ebooks y guías descargables
 - Plataformas: Gumroad, Teachable, Hotmart (mercado hispano)
+- Caso real: Cathrin Manning (100K subs, nicho educativo) pasó de $4-6K/mes (solo AdSense) a ~$10K/mes total con cursos y productos digitales
 - Enlazar en descripciones y comentarios fijados
 - Muy rentable una vez establecida autoridad en el nicho
+
+##### Otras Fuentes de Ingreso
+
+- **YouTube Memberships:** Canales faceless: conversión del 0.5-2% (vs 1-4% para canales con personalidad). Perks: acceso anticipado, contenido exclusivo, comunidad
+- **Super Chat / Super Thanks:** Mejor para streams y contenido comunitario. Para faceless, plataformas como Ko-fi funcionan como "tip jar". Típicamente menor fuente de ingresos
+- **YouTube Shopping:** Permite enlazar productos directamente en vídeos. Mejor para nichos con recomendaciones claras (tech, cocina). Relativamente nuevo
+- **Licensing de contenido:** Subir clips no usados a Pond5 o Shutterstock. WatchMojo (26M subs) gana $120K-334K/mes parcialmente por licensing
+
+##### Comparativa de Fuentes de Ingreso
+
+| Fuente | RPM / Ingresos Típicos |
+|--------|----------------------|
+| AdSense RPM | $3-$8 media |
+| Contenido patrocinado RPM | $8-$30 |
+| Marketing de afiliados | Frecuentemente supera AdSense |
+| Productos digitales | Variable: $500-$10K+/mes a escala |
+
+**Dato clave:** Un patrocinio de $2.000 equivale a ~250 vídeos de ingresos de AdSense para muchos creadores. **La diversificación es lo que lleva de $1K/mes a $10K+.**
+
+#### 7.7 Proyecciones de Ingresos para Canales Faceless
+
+##### Ingresos por Nivel de Suscriptores
+
+| Suscriptores | Ingresos Mensuales por Ads | Con Todas las Fuentes | Notas |
+|-------------|---------------------------|----------------------|-------|
+| **1.000** | $50-$200 | $100-$500 | Recién entrado en YPP. Enfoque en crecimiento |
+| **10.000** | $500-$2.000 | $1.000-$4.000 | Ali Abdaal ganaba ~$1.400/mes AdSense a 10K subs (educación). Sponsors pagan $200-2.000/vídeo |
+| **100.000** | $2.000-$10.000 | $5.000-$20.000+ | Cathrin Manning: $4-6K/mes AdSense, ~$10K total con afiliados/cursos/sponsors |
+| **1.000.000** | $5.000-$50.000+ | $20.000-$100.000+ | Rango amplio según nicho y geografía |
+
+##### RPM por Nicho (Ingreso Real por 1.000 Vistas)
+
+| Nicho | RPM |
+|-------|-----|
+| Finanzas/Inversión | $10-$25 |
+| Tecnología | $8-$20 |
+| Educación | $9-$14 |
+| Ciencia | $8-$14 |
+| True Crime/Documental | $8-$12 |
+| Cocina/Comida | $6-$12 |
+| Viajes | $6-$12 |
+| Superación Personal | $2-$9 |
+| Entretenimiento | $2-$7 |
+| Gaming | $2-$5 |
+
+##### Timeline hasta Hitos de Ingresos
+
+| Hito | Timeline Típico |
+|------|----------------|
+| **Primeros $100** | 1-3 meses después de aprobación de monetización (YouTube requiere $100 mínimo para pagar) |
+| **Primeros $1.000/mes** | 4-12 meses según nicho y consistencia |
+| **Primeros $10.000/mes** | 12-24+ meses (o 6-12 meses en nicho alto CPM con automatización) |
+
+**Aceleran el timeline:** Nicho alto RPM (finanzas, tech), audiencia US/Tier 1, subidas consistentes (3-5x/semana), contenido long-form (8+ min para mid-rolls), hits virales, ingresos tempranos de afiliados/sponsors.
+
+##### Ejemplos de Ingresos de Canales Faceless Top
+
+| Canal | Suscriptores | Ingresos Mensuales Estimados |
+|-------|-------------|------------------------------|
+| 5-Minute Crafts | 80M+ | ~$3.2M (est. de $38M anuales) |
+| DaFuq Boom | 50M+ | $500K-$1.3M |
+| Kurzgesagt | 24.9M | $194K-$583K |
+| WatchMojo | 26M | $120K-$334K |
+| BRIGHT SIDE | 45M+ | $23K-$75K |
+| Lofi Girl | 15M+ | $20K-$45K |
+| Fern (3D Crime Docs) | 2M+ | $80K+ |
+| Two Minute Papers | 1.5M+ | $30K+ |
+
+#### 7.8 Impuestos y Consideraciones Fiscales (Creadores Internacionales)
+
+##### Retención Fiscal de EE.UU.
+
+- **Tasa por defecto:** 30% sobre ingresos de fuente estadounidense para no-residentes
+- **Si NO envías formulario fiscal:** Google puede retener hasta el **24% de TODOS tus ingresos mundiales** (no solo los de fuente US)
+- **Reducción por tratado fiscal:** Muchos países tienen tratados con EE.UU. que reducen la retención al 0-15%
+- Todos los creadores monetizados **DEBEN** enviar información fiscal en AdSense. No hacerlo activa la retención máxima
+
+**España tiene tratado fiscal con EE.UU.** — la retención se reduce significativamente.
+
+##### Formularios Fiscales Necesarios
+
+| Formulario | Para Quién |
+|------------|-----------|
+| **W-8BEN** | Individuos (lo más común para YouTubers solo) |
+| **W-8BEN-E** | Empresas/entidades (SL, LLC propiedad de empresa extranjera) |
+| **W-8IMY** | Intermediarios y sociedades |
+| **W-9** | Ciudadanos/residentes de EE.UU. |
+
+Los formularios expiran al final del tercer año calendario completo después de firmarlos — hay que reenviarlos periódicamente.
+
+##### Estrategia LLC en EE.UU. para Creadores Internacionales
+
+- Una **LLC de miembro único** no paga impuestos en EE.UU. si el propietario no es persona/residente fiscal de EE.UU. y trabaja desde fuera
+- **Funciona bien para:** Creadores en países con tratado que trabajan fuera de EE.UU.
+- **Riesgos:** Nómadas digitales sin residencia fiscal clara, jurisdicciones sin tratado, ingresos de YouTube Premium clasificados como royalties
+
+##### Recomendaciones Clave
+
+1. **SIEMPRE enviar información fiscal** en AdSense para evitar retención excesiva
+2. **Verificar el tratado fiscal** de tu país con EE.UU. — muchos reducen retención al 0-15%
+3. **Consultar un profesional fiscal internacional** — la interacción entre retención US y obligaciones del país de origen es compleja
+4. **Reservar 25-30% de ingresos brutos** para impuestos como regla general hasta tener asesoría profesional
+5. **Trackear todos los gastos** — equipo, software, stock footage, licencias de música, pagos a freelancers son deducibles
 
 ### Paso 8: Consideraciones Legales y Políticas
 

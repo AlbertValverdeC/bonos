@@ -1087,6 +1087,174 @@ Los Shorts son una herramienta de **crecimiento**, no de ingresos:
 
 **Usar la función de programación de YouTube** (YouTube Studio → Contenido → Subir → "Programar" en vez de "Publicar") para mantener consistencia incluso durante descansos.
 
+### Paso 5.5: Estrategia de YouTube Shorts (El Motor de Descubrimiento)
+
+Los Shorts son el **motor de descubrimiento** del canal faceless. El 74% de las vistas de Shorts vienen de no-suscriptores — es tu mejor herramienta para llegar a nueva audiencia. Pero la monetización directa es baja, así que el objetivo real es **alimentar el funnel hacia long-form**.
+
+#### Algoritmo de Shorts: Las Reglas Son Diferentes
+
+Los Shorts NO funcionan como los vídeos largos. Son **swipe-discovered, no click-discovered**: el CTR no existe en Shorts porque los vídeos se reproducen automáticamente. La métrica reina es la **tasa de completación** (completion rate).
+
+**Modelo Explore/Exploit:**
+1. **Explore:** YouTube muestra tu Short a un grupo pequeño de usuarios
+2. **Exploit:** Si la mayoría lo ve completo (no hace swipe), lo empuja a audiencias más amplias. Si la mayoría hace swipe away, detiene la distribución
+
+**Señales de ranking (por orden de importancia):**
+1. Tasa de completación / ratio "visto vs swipe away"
+2. Loops (rewatches)
+3. Shares (especialmente importante post-2025)
+4. Engagement en los primeros segundos
+5. Likes y comentarios
+
+| Tasa de Completación | Interpretación del Algoritmo |
+|----------------------|------------------------------|
+| Menos del 30% | Contenido débil, distribución limitada |
+| 30-50% | Media, algo de distribución |
+| 50-70% | Buena, push a audiencia más amplia |
+| 70%+ | Excelente, potencial viral |
+
+**Dato:** Un Short con 1.000 vistas y 80% de completación es algorítmicamente más valioso que uno con 100.000 vistas y 20%.
+
+**Desacoplamiento (finales 2025):** YouTube separó completamente el motor de recomendación de Shorts del de long-form. Shorts malos ya no arrastran a tus vídeos largos (ni viceversa). Pero la audiencia desalineada sí puede causar daño indirecto.
+
+#### Creación de Shorts: Best Practices para Canales Faceless
+
+##### Duración Óptima
+
+- **Sweet spot: 20-35 segundos.** Los Shorts de menos de 25 seg representan el 68% de todas las vistas de Shorts
+- Shorts de menos de 30 seg: tasa de completación del 75-85%
+- El máximo es 3 minutos (desde octubre 2024), pero mayor duración = más difícil mantener completación alta
+- **Para faceless: apuntar a 20-35 segundos**
+
+##### Hook: Los Primeros 1-3 Segundos
+
+Tienes menos de 3 segundos antes de que el viewer haga swipe. Shorts con hook inmediato retienen **19% más viewers**.
+
+**Hooks que funcionan en Shorts:**
+1. **Ir directo a la acción** — cero intros, cero logos, cero "hola"
+2. **Pregunta provocativa** — "¿Estás cometiendo este error con...?"
+3. **Loop de curiosidad** — abrir un vacío informativo que obliga a quedarse
+4. **Pattern interrupt visual** — algo inesperado en el primer frame
+5. **Texto en pantalla bold** — reforzar el hook visualmente desde el primer segundo
+
+**Dato:** Shorts con AVD superior al 85% tienen el **doble de probabilidades** de ser promovidos en la shelf.
+
+##### Especificaciones Técnicas
+
+| Parámetro | Valor |
+|-----------|-------|
+| Aspecto | 9:16 (vertical, obligatorio) |
+| Resolución | 1080×1920 px (Full HD portrait) |
+| Codec | H.264, formato MP4 |
+| Framerate | 30fps o 60fps |
+| Bitrate | Mínimo 8 Mbps para 1080p |
+| Zona segura | Mantener contenido crítico dentro de ratio 4:5 en el centro |
+| Thumbnail | 1280×720 (16:9) para cuando aparecen fuera de la Shorts shelf |
+
+##### Texto en Pantalla y Subtítulos
+
+- **Subtítulos quemados** (hardcoded en el vídeo) funcionan mejor que los auto-generados de YouTube
+- Añadir texto desde el **primer segundo**, no después
+- Texto **bold, alto contraste**, legible en móvil
+- Mantener texto corto y punchy: "Tip 1: Limpia tu escritorio!" no frases completas
+- Cambiar elementos visuales cada **2-3 segundos** (cortes, zoom, nuevo texto)
+- Subtítulos animados palabra por palabra (estilo CapCut) siguen funcionando bien
+- El 58% de creadores faceless reportan mayor retención con voiceover + captions
+
+##### Música: ¿Trending Sounds o Audio Original?
+
+| Enfoque | Ventaja | Desventaja |
+|---------|---------|------------|
+| **Trending sounds** | Mayor descubrimiento (el algoritmo conecta vídeos con el mismo audio) | Menor monetización (reparto con editoras musicales) |
+| **Audio original (voiceover)** | Mayor monetización (100% del creator share) | Menos boost por tendencia |
+
+**Recomendación para faceless:** Voiceover como audio primario + música de fondo sutil. Si usas trending music, adóptala al inicio del ciclo de tendencia.
+
+##### Frecuencia de Publicación
+
+- Creadores exitosos de Shorts suben **18-22 Shorts/mes** (~4-5 por semana)
+- Canales consistentes por 6 meses ven **44% más crecimiento** general
+- Se necesitan **200+ Shorts** publicados para ver patrones de crecimiento consistentes
+- **Estrategia híbrida óptima:** 3-5 Shorts semanales + 1-2 vídeos largos = **67% crecimiento más rápido** que formato único
+- Mejor horario: **18:00-22:00** en la zona horaria de tu audiencia objetivo
+
+#### Funnel Shorts → Long-Form (La Estrategia Real)
+
+Los Shorts monetizan poco directamente. Su valor real es como **puerta de entrada al canal**.
+
+**Cómo dirigir viewers de Shorts a long-form:**
+- Comentarios fijados con link al vídeo completo
+- Texto en pantalla: "Tutorial completo en el canal"
+- Descripción con link al vídeo relacionado
+- Agrupar vídeos largos relacionados en playlists
+
+**Métricas del funnel:**
+| Métrica | Valor |
+|---------|-------|
+| CTR de Shorts → long-form | 4.5% |
+| Conversión Shorts viewer → suscriptor | 0.8-1.9% |
+| Conversión long-form viewer → suscriptor | 2.3% |
+| Vistas de Shorts de no-suscriptores | 74% |
+| Shorts → long-form: boost por link en descripción | +12% conversiones |
+
+**CRÍTICO: Alineación de temas.** Si tus Shorts tratan temas diferentes a tu long-form, atraerás audiencia equivocada. Cuando YouTube recomiende tus vídeos largos a esos viewers de Shorts y no interactúen, envía señales negativas. **Los Shorts DEBEN estar alineados temáticamente con el long-form.**
+
+**Estrategia probada:**
+1. Planificar el vídeo largo primero
+2. Extraer 5-10 Shorts de cada vídeo largo con Opus Clip o CapCut
+3. Publicar Shorts 1-2 días antes y después del vídeo largo
+4. Cada Short debe ser un "teaser" o "highlight" que funcione solo pero genere curiosidad por el completo
+
+**Caso de estudio:** MacDannyGun ganó **670.000 suscriptores** usando esta estrategia de funnel Shorts→long-form.
+
+#### Monetización de Shorts
+
+**Modelo de reparto:**
+- YouTube recoge todos los ingresos publicitarios de ads entre Shorts
+- YouTube se queda el **55%**
+- El **45% restante** se distribuye entre creadores proporcionalmente a sus vistas monetizadas
+- Si usas música con licencia, el 45% se divide PRIMERO con las editoras musicales antes de llegar a ti
+
+**RPM de Shorts vs Long-Form:**
+
+| Métrica | Shorts | Long-Form |
+|---------|--------|-----------|
+| RPM típico | $0.01-$0.07 / 1K vistas | $2-$12 / 1K vistas |
+| RPM nichos premium (finanzas) | Hasta $0.50 / 1K vistas | Hasta $50 / 1K vistas |
+| Pago típico por 1M vistas | $30-$200 | $2.000-$12.000 |
+
+**Dato 2025:** Los ingresos de Shorts subieron ~15-25% respecto a 2024. Short-form ahora representa el 22% de los ingresos publicitarios de YouTube (vs 15% en 2024).
+
+**Cambio de conteo de vistas (31 marzo 2025):** Cualquier reproducción o replay de un Short cuenta como vista (sin tiempo mínimo). Los contadores subieron ~30%, pero solo las **"engaged views"** (30+ seg vistos o el vídeo completo) cuentan para monetización y elegibilidad YPP.
+
+#### Analytics de Shorts: Qué Medir
+
+| Métrica | Qué es | Objetivo |
+|---------|--------|----------|
+| **Engaged Views** | Vistas de 30+ seg (o completas si < 30s). La métrica gold standard | Maximizar |
+| **Visto vs Swipe Away** | Ratio de viewers que ven vs los que hacen swipe | 70-90% visto |
+| **AVD (% visto)** | Porcentaje del Short visto en media | 75%+ |
+| **Retención** | Gráfico de retención — buscar spikes (replays) y dips | Sin caídas bruscas |
+| **Suscriptores ganados** | Si muchas vistas pero 0 subs = desalineación | Proporcional |
+| **Shares** | Señal fuerte post-2025 | Maximizar |
+
+**Encontrar engaged views:** YouTube Analytics → Modo Avanzado → Métrica "Engaged Views".
+
+**Regla:** Shorts con retención superior al 65% tienen más probabilidades de ser promovidos. Con 75%+ retención = **3x más probabilidad** de llegar a nuevas audiencias.
+
+#### 10 Errores Comunes de Shorts en Canales Faceless
+
+1. **Cortar clips de long-form sin editar para Shorts.** Los Shorts exitosos se conciben y editan nativamente para el formato vertical
+2. **Producción masiva repetitiva.** YouTube renombró "contenido repetitivo" a "contenido inauténtico" (julio 2025). Riesgo de desmonetización/ban
+3. **Hooks lentos.** "Hola chicos, hoy quiero hablar de..." desperdicia los segundos más críticos
+4. **Desalineación temática con long-form.** Atrae audiencia que no interactúa con tus vídeos largos
+5. **Confiar solo en herramientas IA.** Canales suprimidos = contenido low-effort y repetitivo. Los que crecen usan IA con calidad visual, hooks fuertes y narrativa compelling
+6. **No divulgar contenido IA.** Riesgo de supresión algorítmica o expulsión de YPP
+7. **Esperar dinero rápido.** Timeline realista: 0-3 meses poco/nada; 3-6 meses $200-800/mes; 6-12 meses $1.000-5.000/mes
+8. **No publicar suficiente.** Se necesitan **200+ Shorts** para ver patrones de crecimiento consistentes
+9. **Ignorar calidad de audio.** Voiceover nítido es factor de retención clave incluso en faceless
+10. **No trackear engaged views.** Las vistas totales son vanidad — las engaged views son el indicador real
+
 ### Paso 6: Analytics — La Ciencia Detrás del Crecimiento
 
 Este es el paso que separa a los canales que crecen de los que se estancan. No se trata de mirar números al azar, sino de entender qué te está diciendo YouTube sobre tu contenido y tomar decisiones basadas en datos.

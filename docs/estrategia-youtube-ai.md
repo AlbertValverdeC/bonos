@@ -254,9 +254,151 @@ Una vez generadas las palabras clave, lanzar la investigación con filtros estri
 - Viralit permite guardar los vídeos que te gusten en **"Carpetas" o "Paneles"**.
 - Se puede pedir a la herramienta que **analice esa carpeta** y genere nuevas ideas, ganchos (hooks) y estructuras basándose en los vídeos guardados.
 
-### Estrategia: "Adaptar, No Copiar"
+### Análisis Avanzado de Outliers
+
+#### Cómo interpretar el Outlier Score
+
+El rendimiento relativo importa más que las visitas brutas. Un 10x en un canal de 1.000 views de media es tan valioso analíticamente como un 10x en un canal de 1M de media.
+
+| Outlier Score | Significado | Acción |
+|---------------|-------------|--------|
+| **2-3x** | Notable pero no excepcional | Tomar nota, no priorizar |
+| **3-5x** | Outlier significativo | Estudiar tema, formato y packaging |
+| **5-10x** | Hit viral potencial | Alta prioridad para replicar |
+| **10x+** | Excepcional — llenó un vacío masivo | Máxima prioridad de replicación |
+
+#### Cómo diferenciar un formato replicable de un "one-hit wonder"
+
+**Señales de ONE-HIT WONDER (evitar replicar):**
+- El canal no tiene otros vídeos con rendimiento similar
+- Fue impulsado por timing, novedad o un momento irrepetible
+- El tema no se puede revisitar con ángulos frescos
+- Si un solo vídeo popular distorsiona las medias del canal, es un caso aislado
+
+**Señales de FORMATO REPLICABLE (priorizar):**
+- Múltiples vídeos con los mismos elementos estructurales rinden por encima de la media
+- Creadores de tamaño medio (no solo mega-stars) reproducen resultados con el formato
+- Puedes explicar *por qué* funciona en términos estructurales (ej: "las entrevistas en la calle funcionan por autenticidad + sorpresa + prueba social")
+
+**Test rápido:** Si puedes explicar el "por qué" del éxito en términos de estructura, es replicable. Si la respuesta es "simplemente se hizo viral", es un one-hit wonder.
+
+**Nota:** Incluso los formatos probados tienen fecha de caducidad. Como dice MrBeast: "Si siguiera haciendo los formatos que arrasaban en 2020, no estaría donde estoy ahora." Exprimir mientras funciona, pero seguir experimentando.
+
+### El Método "Remix" (No Copiar, Recombinar)
+
+Nunca copiar a ciegas. En su lugar, identificar 2-3 elementos virales probados y recombinarlos con un ángulo nuevo.
+
+**Proceso:**
+1. Encontrar 2-3 vídeos outlier (5x+) en tu nicho o nichos adyacentes
+2. Identificar qué hizo funcionar a cada uno (tema, formato, hook, gatillo emocional)
+3. Combinar elementos: el **tema** del Vídeo A + el **formato** del Vídeo B + el **estilo de hook** del Vídeo C
+4. Añadir tu ángulo único o twist específico de tu micro-nicho
+
+**Ejemplo real:** Un creador vio el éxito viral de un vídeo de "ketchup invisible", reconoció el principio del formato (transformación imposible de comida) y lo adaptó a otro alimento. El remix — concepto probado + nuevo tema — generó millones de views.
+
+### Validación Pre-Producción (Antes de Grabar)
+
+Antes de invertir tiempo en producir un vídeo, validar la idea:
+
+#### 1. Google Trends (modo YouTube Search)
+
+- Ir a trends.google.com, cambiar de "Web Search" a **"YouTube Search"**
+- Rango: 5 años. Buscar línea plana o ascendente (nunca descendente)
+- Usar "+ Comparar" para enfrentar formulaciones de título entre sí
+- **Clave:** Los "Breakout queries" (consultas emergentes) representan demanda de alta intención con baja competencia — publicar en 72h tras detectarlas
+
+#### 2. YouTube Search Suggest (Autocompletado)
+
+- Escribir el tema en YouTube y estudiar las sugerencias automáticas — representan búsquedas reales actuales
+- **Truco del guión bajo:** Escribir "mejor _ para dolor de espalda" y YouTube rellena "colchón", "silla", "yoga", etc., revelando ángulos nuevos
+- Usar **modo incógnito** para sugerencias no influenciadas por tu historial
+- Herramientas: keywordtool.io (750+ sugerencias), YouTube Autocomplete Scraper (Apify)
+
+#### 3. Test con Shorts (MVP)
+
+Antes de comprometerse con un vídeo largo, testar el concepto como Short:
+- Crear un Short de 30-60 segundos que capture el hook/concepto central
+- Medir: views vs. tu media de Shorts, % de visualización completa, ratio de likes
+- Si supera significativamente tu media, la idea tiene demanda validada
+
+**Precaución:** Un Short exitoso valida *interés* en el tema, pero la conversión de viewers de Shorts a largo es típicamente baja. Usar como señal direccional, no como garantía.
+
+#### 4. Minería de Comentarios
+
+Los comentarios son señal directa de qué quiere la audiencia:
+- Leer comentarios en vídeos top de competidores
+- Buscar: preguntas recurrentes, temas solicitados, desacuerdos, frases tipo "ojalá alguien explicara X"
+- **Preguntas recurrentes = temas con demanda validada**
+- **Desacuerdos = ángulos de controversia** (alto potencial de CTR)
+
+### Detección Cross-Platform de Tendencias
+
+Las tendencias nacen en TikTok y migran a YouTube. Timeline típico:
+
+| Fase | Tiempo | Plataforma |
+|------|--------|------------|
+| Origen | Horas a días | TikTok se hace viral |
+| Migración corta | 1-3 semanas | Llega a YouTube Shorts e Instagram Reels |
+| Adaptación larga | 3-8 semanas | Madurez suficiente para long-form en YouTube (explainers, deep-dives) |
+
+**Herramientas de detección temprana:**
+
+| Herramienta | Fortaleza | Precio |
+|-------------|-----------|--------|
+| **Exploding Topics** | Predice tendencias 6-24 meses antes. IA + filtrado humano elimina modas pasajeras. | Desde $39/mes |
+| **SparkToro** | Revela qué webs, podcasts, canales y subreddits consume tu audiencia objetivo. | Tier gratis disponible |
+| **TikTok Creative Center** | Hashtags trending, sonidos y formatos por industria en TikTok. | Gratis |
+| **Shortimize** | Monitor cross-platform de short-form (YT, TikTok, IG) en vista unificada. | De pago |
+| **Google Trends** | Validación base y detección de patrones estacionales. | Gratis |
+
+**Rutina recomendada:**
+- **Diario:** Check TikTok Creative Center + Reddit rising posts en tu nicho
+- **Semanal:** SparkToro queries + revisar dashboards cross-platform
+- **Mensual:** Análisis profundo de qué tendencias de TikTok migraron exitosamente a YouTube
+
+### Inteligencia Competitiva
+
+#### Reverse-Engineering de Competidores
+
+1. **Elegir los competidores correctos:** Canales 1-2 niveles por delante de ti — exitosos pero no tan masivos que sus tácticas sean irrelevantes
+2. **Encontrar sus outliers:** Usar OutlierKit, vidIQ o Viewstats para vídeos 3-10x por encima de su media
+3. **Analizar el "por qué":** Para cada outlier, documentar: tema/ángulo, fórmula de título, estilo de thumbnail, duración, estructura del hook, patrones de engagement
+4. **Buscar gaps de formato:** Si todos hacen talking-head, prueba screen recordings. Si todos hacen tips rápidos, haz deep-dives. Si ignoran Shorts, domina Shorts en tu nicho
+
+#### Análisis de Gaps (Huecos de Contenido)
+
+| Tipo de Gap | Qué buscar |
+|-------------|------------|
+| **Autocompletado** | Temas que nadie cubre bien (long-tail con alta intención) |
+| **Formato** | Si tu nicho está dominado por un formato, el opuesto está desatendido |
+| **Shorts** | Si competidores solo hacen long-form, dominar Shorts y funnel hacia largo |
+| **Profundidad** | Si el contenido existente es superficial, los deep-dives llenan una necesidad |
+| **Recencia** | Si los top vídeos de un tema tienen 2+ años, una versión fresca tiene ventaja |
+
+### Estrategia de Adaptación EN -> ES
 
 La visión global: **identificar qué funciona en el mercado anglosajón (EEUU) y replicar esa idea en español**, donde suele haber menos competencia.
+
+**Casos de éxito reales:**
+- Un creador tech italiano pasó de 10K a 1M+ subs en 18 meses doblando sus 50 mejores vídeos al español e inglés. Su canal español llegó a 200K subs desde cero. Revenue +400%.
+- Kids Diana Show: su canal dedicado en español acumuló 5.000M+ de visualizaciones.
+- Brave Wilderness: 12 versiones localizadas = 80M views y 370K nuevos suscriptores.
+
+**Nichos que mejor se adaptan entre inglés y español:**
+1. Kids/Family — atractivo universal, mínima fricción cultural
+2. Belleza y lifestyle — fuerte demanda en LatAm y España
+3. Educación y tutoriales — el contenido práctico trasciende idiomas
+4. Gaming — arrasa en español y portugués
+5. DIY/manualidades — contenido visual, necesita mínima adaptación
+
+**Adaptación cultural (no solo traducción):**
+- Adaptar imágenes, referencias, humor y tono — no solo traducir palabras
+- Los títulos deben usar las keywords más buscadas en el mercado destino
+- Las thumbnails con texto necesitan versiones localizadas
+- Variación regional significativa: español mexicano, argentino y castellano tienen modismos, humor y referencias distintas
+- **80% de audiencias hispanas prefieren contenido en español**, incluso si son bilingües
+
+**La ventana se está cerrando:** 2025-2026 es cuando la localización todavía da ventaja competitiva. MrBeast, Mark Rober y Jamie Oliver ya publican en 30+ idiomas. Para 2027, la competencia multilingual será mucho mayor.
 
 **Regla de oro: NO hacer copy-paste idéntico.**
 
@@ -271,6 +413,82 @@ Si publicas 4 ideas en una semana y solo 1 funciona bien:
 - **NO** buscar ideas radicalmente nuevas.
 - **SÍ** analizar por qué funcionó esa única idea.
 - **Hacer más de lo que ya está funcionando** — duplicar lo que da resultados.
+
+#### Métricas clave para el análisis
+
+| Métrica | Benchmark | Interpretación |
+|---------|-----------|----------------|
+| **CTR** | Media: 4-6%. Bueno: >7%. Excelente: >10% | Por debajo de 3% = títulos/thumbnails necesitan trabajo |
+| **AVD (Duración Media)** | Objetivo: 50%+ de retención | Un vídeo de 6 min con 5 min AVD (83%) >>> un vídeo de 20 min con 3 min AVD (15%) |
+| **Watch Time** | La moneda principal de YouTube | 10 min manteniendo 1.000 viewers 8 min (8.000 min) > clip viral de 30s con 50K views |
+
+**Diagnóstico rápido:**
+- **Muchas impresiones + CTR bajo** = tu contenido es bueno pero el packaging (título/thumbnail) es débil
+- **CTR alto + AVD bajo** = tu packaging es fuerte pero el contenido no cumple la promesa (clickbait — YouTube penaliza esto)
+
+#### Cuántos vídeos antes de juzgar un nicho
+
+- **Test mínimo viable:** 10-20 vídeos bien investigados en 2-3 meses
+- **Para tracción algorítmica:** ~50 vídeos antes de que YouTube tenga datos suficientes para recomendar seriamente
+- **Compromiso completo:** 6 meses de uploads consistentes (1-2/semana = 24-48 vídeos)
+- **Señales individuales:** Datos significativos de un vídeo individual en 1-2 semanas (CTR, AVD, sentimiento en comentarios)
+- **Calidad > Frecuencia:** 1 vídeo de calidad/semana supera a 7 mediocres. YouTube premia watch time por vídeo, no total de vídeos publicados
+
+#### A/B Testing Nativo de YouTube (2025-2026)
+
+YouTube ahora soporta "Test & Compare" para thumbnails Y títulos:
+- Testar hasta 3 variaciones de título, thumbnail o título+thumbnail simultáneamente
+- Tests corren hasta 2 semanas
+- El ganador se determina por **watch time por impresión** (no solo CTR — evita que gane el clickbait)
+- Resultados tempranos: optimización de títulos puede subir CTR un 15-30%
+
+**La estrategia "Title Flip" (vidIQ):** Lanzar con título de curiosidad para maximizar Browse/Suggested CTR. Tras 48-72h, si el tráfico baja, cambiar a título con keywords para discoverability a largo plazo en Search. Dos olas de vida para el mismo vídeo.
+
+### El Sistema de "Content Buckets" (Categorías de Contenido)
+
+Definir 3-5 categorías repetibles dentro de tu nicho. Cada bucket es un formato o serie que puedes reproducir con diferentes temas.
+
+**Cómo construir los buckets:**
+1. **Pasión/Expertise** — Temas que puedes desarrollar sin investigar horas
+2. **Demanda de audiencia** — Validado via YouTube search suggest y Google Trends
+3. **Potencial de monetización** — Considerar CPM, fit para sponsors, posibilidad de curso/producto
+
+**Balance dentro de los buckets:**
+- Tutoriales evergreen (acumulan views durante años)
+- Comentario sobre tendencias (pico de views hoy)
+- Mezclar ambos para estabilidad
+
+**Regla:** Enfocarse en un nicho hasta 10K suscriptores. Dividir la atención retrasa el crecimiento. El algoritmo favorece la consistencia — uploads semanales superan a mensuales, incluso con mayor producción.
+
+### Entender el Algoritmo para Elegir Mejor las Ideas
+
+YouTube en 2025-2026 evalúa 3 grupos de señales:
+
+**1. Señales de Clic:** CTR, rendimiento vs. otras opciones mostradas al mismo viewer
+
+**2. Señales de Retención:** AVD, retención relativa (50%+ al punto medio es saludable). Si la retención cae por debajo del 40%, YouTube deprioritiza el vídeo sin importar el CTR.
+
+**3. Señales de Satisfacción (el cambio de 2025):** YouTube ahora trackea *satisfacción*, no solo engagement:
+- Comportamiento de visualización repetida
+- Respuestas a encuestas
+- Clics en "No me interesa"
+- **Continuación de sesión** — ¿el viewer ve más vídeos después del tuyo o se va de YouTube?
+- **Lo que premia:** Viewer ve tu vídeo, se engancha, ve 2-3 más
+- **Lo que penaliza:** Viewer hace clic, ve 20 segundos, cierra la app
+
+**Canales nuevos:** El algoritmo ahora testea creadores nuevos más agresivamente cuando las señales tempranas son fuertes. Si tus primeros vídeos muestran buen CTR y retención, YouTube te prueba con audiencias más amplias en días, no semanas.
+
+### Optimizar Ideas Según Fuente de Tráfico
+
+Cada vídeo debería tener UNA fuente de tráfico primaria en mente:
+
+| Fuente | Optimizar para | Mejor tipo de contenido |
+|--------|---------------|------------------------|
+| **Browse (Homepage)** | Thumbnails llamativas, primeros 30s impecables, publicación consistente | Temas de amplio interés, perspectivas únicas, elementos provocativos |
+| **Search** | Keywords en título (primeras 5 palabras), descripciones keyword-rich | Tutoriales, how-tos, respuestas a preguntas específicas |
+| **Suggested** | End screens, cards a tus vídeos, branding consistente, session time | Series, deep-dives, contenido para binge-watching |
+
+**Principio estratégico:** Tener vídeos para las 3 fuentes a lo largo del canal = resiliencia. Si Browse baja un 40% en una semana, Search y Suggested compensan.
 
 ---
 

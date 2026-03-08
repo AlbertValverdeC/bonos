@@ -687,22 +687,229 @@ Título, Thumbnail y Hook (primeros segundos del vídeo) están interconectados 
 
 ## Fase 4: Producción del Contenido con IA
 
-El trabajo de días se reduce a menos de una hora. Objetivo: vídeos largos (30+ minutos) para maximizar ingresos.
+Lo que antes requería días de trabajo se reduce a menos de una hora con las herramientas correctas. El pipeline tiene 4 pilares: guion, locución, contenido visual y edición final. **Objetivo: vídeos largos (30+ minutos) para maximizar ingresos con mid-roll ads.**
 
-| Paso | Herramienta | Descripción |
-|------|-------------|-------------|
-| **Guion** | ChatGPT | Generar guion basado en la idea viral adaptada. Revisar y ajustar para dar personalidad. |
-| **Locución** | ElevenLabs | Convertir el texto en voz realista por IA (archivo MP3). |
-| **Edición visual** | CapCut | Importar audio y añadir imágenes/vídeos stock libres de derechos. Los clips deben representar lo que narra la voz. |
-| **Subtítulos** | CapCut (IA) | Generar subtítulos automáticos, especialmente para audiencia mayor de 45 años. |
+**Dato clave (2026):** El 83% de los creadores de YouTube ya usan IA en alguna parte de su flujo de trabajo; más de la mitad específicamente para producción de vídeo.
+
+### Pilar 1: Guion con IA
+
+El guion es la columna vertebral del vídeo. Un buen guion con locución mediocre funciona; un guion mediocre con locución perfecta fracasa.
+
+#### Proceso con ChatGPT
+
+1. **Prompt inicial:** Pedir a ChatGPT que genere un guion basándose en la idea viral adaptada. Comando base:
+   > *"Escríbeme un guion para un vídeo de YouTube de 30 minutos sobre [tema]. El vídeo debe tener un hook de 30 segundos que enganche, desarrollo con datos y ejemplos, y un cierre con CTA. El tono debe ser [conversacional/profesional/dramático]. Escribe las instrucciones visuales entre corchetes."*
+
+2. **Estructura obligatoria del guion:**
+   - **Hook (0-30s):** La frase más importante del vídeo. Debe crear un "open loop" (bucle abierto) que obligue al viewer a quedarse. Ej: "Lo que voy a contarte cambiará completamente cómo ves [tema]... pero primero necesitas entender algo."
+   - **Desarrollo (1-25 min):** Contenido sustancial dividido en bloques de 3-5 minutos. Cada bloque debe empezar con un mini-hook que re-enganche ("Pero aquí es donde la cosa se pone interesante...").
+   - **Cierre + CTA (25-30 min):** Resumen de valor + llamada a la acción ("Si te ha parecido útil, suscríbete y activa la campana").
+
+3. **Revisión humana obligatoria:** NUNCA publicar el guion sin revisarlo. ChatGPT genera texto genérico por defecto. Hay que:
+   - Añadir personalidad y opiniones propias
+   - Eliminar frases típicas de IA ("en el mundo actual...", "es importante destacar que...")
+   - Insertar ejemplos específicos y datos concretos
+   - Asegurarse de que cada minuto aporta valor (si un párrafo se puede eliminar sin perder nada, eliminarlo)
+
+4. **Formato de salida optimizado:** Pedir a ChatGPT que separe el texto narrado de las instrucciones visuales en columnas o con marcadores:
+   ```
+   [NARRACIÓN]: "Los científicos descubrieron algo impactante..."
+   [VISUAL]: Mostrar gráfico de barras con los datos del estudio
+   ```
+   Esto acelera enormemente la edición posterior.
+
+#### Herramientas Alternativas para Guiones
+
+| Herramienta | Precio | Punto fuerte | Mejor para |
+|-------------|--------|--------------|------------|
+| **ChatGPT (GPT-4o)** | $20/mes (Plus) | Versatilidad máxima, enorme comunidad de prompts | Todo tipo de guiones |
+| **Claude (Anthropic)** | $20/mes (Pro) | Contexto 200K tokens, menos alucinaciones | Guiones largos (documentales, deep-dives) |
+| **Gemini Advanced** | $20/mes | Acceso a datos de YouTube en tiempo real | Investigación de temas trending |
+| **Subscribr AI** | $18-$42/mes | Aprende tu estilo, genera guiones en ~12 min | Canales establecidos que escalan |
+| **Poppy AI** | Desde ~$15/mes | Analiza competencia y reverse-engineering | Desglosar estructura de vídeos exitosos |
+| **Jasper AI** | $39-$99/mes | Plantilla "YouTube Script Writer" | Canales de finanzas/negocios |
+
+**Truco avanzado:** Usar Gemini para investigar datos actuales del tema → pasar esos datos a ChatGPT/Claude para generar el guion → resultado: guion con información actualizada y estilo pulido.
+
+#### Estructura de Retención: Los "Pattern Interrupts"
+
+Para mantener la retención en vídeos de 30+ minutos:
+- **Cada 3-5 minutos:** Cambio de formato visual (pasar de slides a stock footage, de narración a datos en pantalla)
+- **Cada 7-10 minutos:** Mini-cliffhanger ("Pero espera, lo que viene después es aún más sorprendente...")
+- **Minuto 8 (primer mid-roll):** Colocar un punto de tensión máxima JUSTO ANTES del primer corte publicitario
+- **Retención objetivo:** 50%+ al punto medio del vídeo. Si la retención cae por debajo del 40%, YouTube deprioritiza sin importar el CTR
+
+### Pilar 2: Locución con IA (Text-to-Speech)
+
+#### Proceso con ElevenLabs
+
+1. **Selección de voz:** Elegir una voz que encaje con el nicho y la audiencia objetivo. ElevenLabs ofrece biblioteca de voces pre-hechas + clonación de voz personalizada.
+   - **Finanzas/Negocios:** Voz masculina grave, profesional
+   - **Salud/Bienestar:** Voz calmada, empática
+   - **True Crime/Documental:** Voz dramática con variación tonal
+   - **Educación:** Voz clara, articulada, ritmo medio
+
+2. **Conversión:** Pegar el texto del guion en ElevenLabs → seleccionar la voz → generar el MP3. Con el plan Creator (100 min/mes) es suficiente para ~3-4 vídeos largos al mes.
+
+3. **Ajustes de calidad:**
+   - **Estabilidad:** Controla la consistencia de la voz (más alta = más robótica, más baja = más expresiva)
+   - **Similitud:** Qué tanto se parece a la voz original clonada
+   - **Exageración de estilo:** Para narración dramática, subir este parámetro
+
+4. **Truco:** Dividir el guion en bloques de 3-5 minutos y generar cada bloque por separado. Esto permite ajustar el tono para diferentes secciones (más dramático en hooks, más calmado en explicaciones).
+
+#### Alternativas a ElevenLabs (Ranking Calidad-Precio)
+
+| Herramienta | Precio | Calidad | Punto fuerte |
+|-------------|--------|---------|--------------|
+| **ElevenLabs** | $5-$99/mes | Líder del mercado | Clonación de voz, voces ultra-realistas |
+| **Fish Audio (Open Audio S1)** | $9.99/mes (200 min) | #1 en TTS-Arena (benchmark) | **20x más barato** que ElevenLabs para el mismo volumen |
+| **Chatterbox (Resemble AI)** | Gratis (open source, MIT) | 63.8% preferido sobre ElevenLabs en tests ciegos | Cero costo si sabes self-hostear |
+| **Cartesia** | Desde $25/mes | Preferido 36/50 veces sobre ElevenLabs | Ultra baja latencia, ideal para API |
+| **Murf AI** | $13.99-$83/mes | Alta | Estudio completo: sync audio-vídeo, música royalty-free incluida |
+| **PlayHT** | $29-$99/mes | Alta | 600+ voces, control fino de emoción/tono/pitch |
+| **Speechify** | $12-$29/mes | Buena | La más fácil de usar, multiplataforma |
+| **Smallest.ai** | $0.02/min | Buena | **El más barato del mercado** para producción masiva |
+| **LOVO AI / Genny** | $19-$49/mes | Buena | Editor de vídeo integrado, 100+ idiomas |
+
+**La revelación 2026:** Fish Audio y Chatterbox (open source) han alcanzado o superado a ElevenLabs en calidad según benchmarks independientes, a una fracción del precio. Para canales que producen mucho contenido, el ahorro es significativo.
+
+**Para contenido en español:** ElevenLabs, Fish Audio y PlayHT tienen las mejores voces en español. Verificar siempre la calidad de la voz en español específicamente — muchas herramientas suenan excelentes en inglés pero artificiales en otros idiomas.
+
+### Pilar 3: Contenido Visual (Stock + IA)
+
+El principio: cada clip visual debe **representar lo que la voz está narrando** en ese momento. Nunca dejar más de 5-7 segundos sin cambio visual.
+
+#### Fuentes de Stock Footage Gratuitas
+
+| Plataforma | Biblioteca | Calidad | Licencia |
+|------------|-----------|---------|----------|
+| **Pexels** | Masiva | HD/4K | Uso comercial gratis, sin atribución |
+| **Pixabay** | 1.6M+ clips | HD/4K | Uso comercial gratis, sin atribución |
+| **Mixkit (Envato)** | Curada | HD/4K | Uso comercial gratis, sin atribución. Incluye música stock |
+| **Coverr** | Media | HD/4K | Sin registro necesario |
+
+**Proceso:** Buscar clips relevantes para cada sección del guion. Descargar 2-3 opciones por sección para tener variedad. Usar las instrucciones visuales del guion como guía de búsqueda.
+
+#### Fuentes de Stock Premium (Cuando lo Gratuito no Basta)
+
+| Plataforma | Precio | Punto fuerte |
+|------------|--------|--------------|
+| **Storyblocks** | $21-$35/mes | Descargas ilimitadas + IA integrada (ElevenLabs, Runway) |
+| **Envato Elements** | $16.50/mes | 19M+ assets (vídeo, música, plantillas, gráficos) |
+| **Artgrid** | $25/mes | Footage cinematográfico premium |
+| **Shutterstock** | Desde $79/mes | La biblioteca más grande del mundo |
+
+**Recomendación:** Empezar con las gratuitas (Pexels + Pixabay + Mixkit). Solo pasar a premium cuando necesites footage muy específico que no encuentres gratis.
+
+#### Generación de Imágenes con IA (Complemento Visual)
+
+Para momentos donde no existe stock footage adecuado:
+- **DALL-E 3 (ChatGPT):** Genera la imagen directamente después de escribir el guion, en el mismo chat. Incluido en ChatGPT Plus ($20/mes)
+- **Midjourney v6.1:** Calidad artística superior. Ideal para thumbnails y escenas de impacto. $10-$60/mes
+- **Adobe Firefly:** Entrenado solo con contenido con licencia (seguro legalmente). Integrado en Photoshop
+
+### Pilar 4: Edición Final con CapCut
+
+#### Proceso de Edición
+
+1. **Importar el audio:** Abrir CapCut → importar el archivo MP3 de ElevenLabs. Este audio es la "pista maestra" que guía toda la edición.
+
+2. **Añadir contenido visual:** Colocar los clips de stock, imágenes y gráficos sobre la línea de tiempo, sincronizados con lo que dice la narración. **Regla de oro: cambio visual cada 5-7 segundos máximo** para mantener la atención.
+
+3. **Transiciones:** Usar transiciones simples (corte directo o fade suave). Las transiciones elaboradas distraen y restan profesionalismo en contenido informativo.
+
+4. **Música de fondo:** Añadir música ambient suave que refuerce el tono. Fuentes gratuitas: Mixkit, YouTube Audio Library, Pixabay Music. Volumen al 10-15% — suficiente para evitar silencio pero sin competir con la voz.
+
+5. **Subtítulos automáticos:** CapCut genera subtítulos con IA en 20+ idiomas. **Siempre activar subtítulos**, especialmente para:
+   - Audiencia mayor de 45 años (mayor consumo con subtítulos)
+   - Viewers que ven sin sonido (~85% del consumo en móvil empieza sin sonido)
+   - SEO: YouTube indexa los subtítulos para búsqueda
+
+6. **Exportar:** 1080p mínimo. 4K si el contenido es muy visual (naturaleza, paisajes). Bitrate alto para evitar compresión visible.
+
+#### Herramientas de Edición Alternativas
+
+| Herramienta | Precio | Punto fuerte | Ideal para |
+|-------------|--------|--------------|------------|
+| **CapCut** | Gratis / $7.99/mes (Pro) | Auto-subtítulos, eliminación de fondo IA, reencuadre | La opción por defecto. Perfecto para empezar |
+| **Descript** | $12-$24/mes | Edición basada en texto: borras una frase y el clip se elimina | Voiceovers y narraciones (edición 3x más rápida) |
+| **DaVinci Resolve** | Gratis / $295 pago único | Editor profesional sin marca de agua, mejor color grading | Calidad máxima sin suscripción mensual |
+| **Gling** | $15.99-$23.99/mes | Elimina automáticamente silencios, errores y tomas malas | Pre-limpieza de voiceovers antes del ensamblaje |
+| **Adobe Premiere Pro** | $22.99/mes | Estándar de la industria, herramientas IA avanzadas | Creadores serios que necesitan control total |
+| **Opus Clip** | $15-$29/mes | Convierte vídeos largos en Shorts automáticamente | Duplicar alcance extrayendo Shorts de long-form |
+
+**Combo recomendado:** CapCut (edición principal) + Opus Clip (generar Shorts de cada vídeo largo). Por cada vídeo de 30 min, Opus Clip puede extraer 5-10 Shorts automáticamente, multiplicando el contenido sin esfuerzo adicional.
+
+### La Opción Nuclear: Plataformas All-in-One (Script → Vídeo Completo)
+
+Para quien quiere automatizar al máximo, existen plataformas que convierten un guion o incluso un prompt en un vídeo completo con visuales, voiceover, música y transiciones:
+
+| Plataforma | Precio | Tecnología | Punto fuerte |
+|------------|--------|-----------|--------------|
+| **InVideo AI** | $25-$50/mes | Integra Sora 2 (OpenAI) + VEO 3.1 (Google) | La más recomendada 2026. 16M+ assets, dubbing en 50+ idiomas |
+| **HeyGen** | $24-$69/mes | Avatares IA ultra-realistas | "Presentador virtual" como cara del canal faceless |
+| **Synthesia** | $22-$67/mes | Avatares profesionales | Canales educativos/corporativos |
+| **Fliki** | $28-$88/mes | 2,500+ voces en 80+ idiomas | Script-to-video + URL-to-video + clonación de voz |
+| **VEED.io** | $12-$24/mes | Todo-en-uno | Edición + TTS + traducción + avatares en una sola herramienta |
+| **Pictory** | $19-$99/mes | IA de selección contextual de footage | Convertir blogs/artículos en vídeos |
+| **Mootion** | Desde ~$15/mes | 65% más rápido que competidores | Vídeo de 3 min en menos de 2 minutos de procesamiento |
+
+**InVideo AI es la revelación de 2026:** Logró integración exclusiva con Sora 2 y VEO 3.1 por ~$28/mes, cuando acceder a estos modelos directamente cuesta $200+/mes. VEO 3.1 resuelve el problema histórico de la consistencia de personajes entre escenas.
+
+**Precaución con all-in-one:** La calidad es inferior al pipeline manual (ChatGPT + ElevenLabs + CapCut). Los vídeos pueden verse "generados por IA" si no se personalizan. Ideal para escalar producción una vez validado el nicho, no como primera opción.
+
+### Pipeline Completo: De Idea a Vídeo Publicado
+
+| Paso | Acción | Herramienta | Tiempo estimado |
+|------|--------|-------------|-----------------|
+| 1 | Escribir guion + instrucciones visuales | ChatGPT/Claude | 15-20 min |
+| 2 | Revisar y personalizar guion | Manual | 10-15 min |
+| 3 | Generar locución | ElevenLabs/Fish Audio | 5 min |
+| 4 | Descargar stock footage/imágenes | Pexels/Pixabay/Mixkit | 10-15 min |
+| 5 | Editar vídeo (audio + visuales + transiciones) | CapCut | 20-30 min |
+| 6 | Generar subtítulos automáticos | CapCut IA | 2 min |
+| 7 | Exportar y revisar | CapCut | 5 min |
+| **TOTAL** | | | **~70-90 min por vídeo de 30 min** |
+
+Con práctica, este pipeline baja a 45-60 minutos por vídeo. Con plataformas all-in-one como InVideo AI, puede bajar a 15-30 minutos sacrificando algo de calidad y personalización.
+
+### Stacks Recomendados por Presupuesto
+
+#### Stack Mínimo (~$20-30/mes)
+| Paso | Herramienta | Costo |
+|------|-------------|-------|
+| Guion | ChatGPT Plus | $20/mes |
+| Voiceover | Fish Audio o Chatterbox (gratis si self-hosted) | $0-10/mes |
+| Edición | CapCut (gratis) | $0 |
+| Thumbnails | Canva gratis + DALL-E (incluido en ChatGPT) | $0 |
+| Subtítulos | CapCut Auto Captions | $0 |
+| Stock | Pexels + Pixabay + Mixkit | $0 |
+
+#### Stack Intermedio (~$60-100/mes)
+| Paso | Herramienta | Costo |
+|------|-------------|-------|
+| Guion | ChatGPT Plus + Subscribr AI | $38/mes |
+| Voiceover | ElevenLabs Creator | $22/mes |
+| Edición | Descript Business | $24/mes |
+| Thumbnails | Canva Pro | $13/mes |
+| Stock | Pexels/Pixabay + Envato Elements | $0-16.50/mes |
+
+#### Stack Profesional (~$150-300/mes)
+| Paso | Herramienta | Costo |
+|------|-------------|-------|
+| Guion | Subscribr AI Pro + Claude Pro | $62/mes |
+| Voiceover | ElevenLabs Pro (500 min) | $99/mes |
+| Edición | Premiere Pro + Gling | $39/mes |
+| Thumbnails | Canva Pro + Midjourney | $43/mes |
+| Stock | Storyblocks | $21/mes |
+| Shorts | Opus Clip Pro | $29/mes |
 
 ---
 
-## Fase 5: Publicación, Constancia y Análisis
+## Fase 5: Creación de la Cuenta, Configuración y Publicación
 
-- **Frecuencia:** ~4 vídeos por semana como punto de partida.
-- **Mentalidad:** Los primeros vídeos tendrán pocas/cero visitas. El algoritmo necesita tiempo y volumen.
-- **Análisis:** No analizar métricas (CTR, retención) con menos de ~100 visitas. El análisis serio comienza cuando hay miles de impresiones.
+**PLACEHOLDER_FASE_5**
 
 ---
 

@@ -61,13 +61,65 @@ Si al aplicar estos filtros encuentras varios canales con pocos seguidores pero 
 
 ---
 
-## Fase 2: Búsqueda de Ideas de Vídeos
+## Fase 2: Selección de Ideas Virales
 
-No inventar desde cero, sino replicar lo que ya ha demostrado funcionar.
+Una vez validado el nicho, el mayor error es intentar inventar contenido desde cero. YouTube funciona con oferta y demanda: **hay que buscar exactamente qué es lo que la gente ya quiere ver y dárselo**.
 
-- **Identificar "Outliers":** Usando Viralit, buscar vídeos virales que multiplican la media de visitas de un canal pequeño (ej. 3M de visitas en un canal de 45K suscriptores).
-- **Adaptación al mercado hispano:** Tomar ideas validadas en el mercado anglosajón y llevarlas al español, con menos competencia.
-- **Evitar el "Copy-Paste" exacto:** La idea base se toma como referencia, pero se modifica y adapta para crear marca propia.
+La estrategia se basa en encontrar **"outliers" (casos atípicos)**: vídeos que multiplican drásticamente la media normal de visitas de un canal. Ej. un canal de 45.000 suscriptores con un vídeo de 3,4 millones de visitas publicado hace solo un par de meses.
+
+### Proceso Técnico con Viralit
+
+#### Paso 1: Generación de palabras clave con IA
+
+En la página de inicio de Viralit, pedir a la IA que genere términos de búsqueda. Comando exacto:
+
+> *"Dame palabras claves en inglés para encontrar ideas faceless de [tu nicho, ej. salud o espiritualidad]"*
+
+#### Paso 2: Aplicación de filtros
+
+Una vez generadas las palabras clave, lanzar la investigación con filtros estrictos:
+
+**Para vídeos largos:**
+
+| Filtro | Valor |
+|--------|-------|
+| **Tamaño del canal** | Máx. 250.000-500.000 suscriptores |
+| **Idioma** | Inglés |
+| **Fecha de publicación** | Últimos 12 meses |
+| **Duración** | Más de 20 minutos |
+
+**Para Shorts:**
+
+| Filtro | Valor |
+|--------|-------|
+| **Tamaño del canal** | Máx. 1.000.000 suscriptores |
+| **Idioma** | Inglés |
+| **Fecha de publicación** | Últimos 12 meses |
+| **Duración** | Máx. 3 minutos |
+
+#### Paso 3: Guardar y analizar
+
+- La herramienta arroja vídeos que cumplen los criterios.
+- Viralit permite guardar los vídeos que te gusten en **"Carpetas" o "Paneles"**.
+- Se puede pedir a la herramienta que **analice esa carpeta** y genere nuevas ideas, ganchos (hooks) y estructuras basándose en los vídeos guardados.
+
+### Estrategia: "Adaptar, No Copiar"
+
+La visión global: **identificar qué funciona en el mercado anglosajón (EEUU) y replicar esa idea en español**, donde suele haber menos competencia.
+
+**Regla de oro: NO hacer copy-paste idéntico.**
+
+- Replicar un vídeo de forma exacta puede funcionar porque la idea ya está validada.
+- Pero el copy-paste puro es un error: puede traer problemas con el creador original y no construye marca propia.
+- **Lo correcto:** Inspirarse fuertemente en la idea, el enfoque y la estructura del vídeo viral, pero modificar elementos para darle personalidad al canal propio.
+
+### Ciclo de Iteración Basado en Datos
+
+Si publicas 4 ideas en una semana y solo 1 funciona bien:
+
+- **NO** buscar ideas radicalmente nuevas.
+- **SÍ** analizar por qué funcionó esa única idea.
+- **Hacer más de lo que ya está funcionando** — duplicar lo que da resultados.
 
 ---
 

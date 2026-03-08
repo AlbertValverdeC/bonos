@@ -1256,6 +1256,11 @@ YouTube evolucionó de un modelo puramente de engagement a un modelo de **satisf
 - Tasa de compartición
 - **Señal negativa clave:** Si el viewer cierra YouTube después de ver tu vídeo = mala señal. Los vídeos que mantienen a la gente EN YouTube (no solo viendo tu vídeo) reciben boost
 
+**Nuevos factores 2025-2026:**
+- **IA de comprensión de contenido:** YouTube usa Google Gemini para analizar tono, elementos en pantalla y contenido real del vídeo (no solo metadata)
+- **Evaluación a nivel de canal:** El algoritmo ahora juzga canales como un todo, no solo vídeos individuales. Los patrones importan más que los picos
+- **"Hype" (2026):** Para canales de 500-500K suscriptores, los fans pueden "Hype" un vídeo para impulsarlo en un leaderboard y el feed Explore
+
 **Implicaciones prácticas:**
 - Los vídeos que generan que la gente comparta, guarde o vuelva reciben boost
 - Los vídeos que causan que la gente cierre YouTube son suprimidos
@@ -1300,6 +1305,8 @@ YouTube implementa señales de autoridad temática cada vez más fuertes:
 | **Velocidad de testing** | Días | Horas |
 | **Potencial viral** | Gradual | Explosivo (0 a millones en 24h) |
 | **Rol de la búsqueda** | Importante | Mínimo |
+
+**Actualización finales 2025:** El motor de recomendación de Shorts está **completamente desacoplado** del de long-form. Un mal rendimiento en Shorts NO arrastra las recomendaciones de long-form (y viceversa). Además, en 2026 los Shorts tienen más tiempo para despegar — la viralidad ya no está limitada a 48 horas, pueden ganar tracción durante semanas.
 
 **Cross-pollination:** Los Shorts pueden generar suscriptores que luego ven tu contenido largo. Pero los algoritmos no se potencian directamente entre sí — un Short viral NO hace que tu siguiente vídeo largo rinda mejor algorítmicamente.
 
@@ -1466,9 +1473,12 @@ YouTube busca estas señales:
 
 **Cómo pivotar (de menor a mayor cambio):**
 1. **Micro-pivote:** Mismo nicho, diferente ángulo o formato de contenido
-2. **Nicho adyacente:** Tema relacionado con mejores métricas (ej: "inversión" → "inversión inmobiliaria")
-3. **Pivote completo:** Nuevo canal en un nicho totalmente diferente (mantener el antiguo — puede crecer más tarde)
-4. **Testear antes de comprometerse:** Subir 5 vídeos en la nueva dirección antes de pivotar completamente
+2. **"Nichebending":** Tomar un formato probado de otro mercado y traerlo a tu nicho. Ej: tier lists, "explicado en X minutos", casos de estudio. Es un pivote de formato, no de tema
+3. **Nicho adyacente:** Tema relacionado con mejores métricas (ej: "inversión" → "inversión inmobiliaria")
+4. **Pivote completo:** Nuevo canal en un nicho totalmente diferente (mantener el antiguo — puede crecer más tarde)
+5. **Testear antes de comprometerse:** Subir 5 vídeos en la nueva dirección antes de pivotar completamente. Si la retención supera el 50%, has encontrado señal
+
+**Compromiso mínimo antes de pivotar:** 6 meses con subidas consistentes (1-2/semana). Pivotar antes no da datos suficientes para saber si el problema es el nicho o la ejecución.
 
 ### Paso 7: Monetización
 
@@ -1485,6 +1495,13 @@ YouTube busca estas señales:
 - Vídeos ocultos/privados NO cuentan
 - No tener strikes activos de Community Guidelines
 - Proceso de revisión: típicamente 1-4 semanas tras solicitar
+
+**Requisitos de calidad del contenido (CRUCIAL para canales faceless con IA):**
+- El contenido debe ser "auténtico", "original" y "apto para anunciantes"
+- Contenido reutilizado, compilaciones sin comentario, slideshows con stock footage sin valor original pueden ser RECHAZADOS
+- YouTube está endureciendo la revisión de contenido generado por IA en 2026
+- Cumplir los umbrales desbloquea el botón "Solicitar" pero NO garantiza aprobación
+- **Reparto de ingresos:** Creadores reciben el 55% de ingresos publicitarios; YouTube se queda el 45%
 
 **Configuración de AdSense:**
 - Al ser aprobado en YPP, se te pide crear o vincular una cuenta de AdSense
@@ -1542,16 +1559,27 @@ YouTube busca estas señales:
 - **Música:** SIEMPRE usar librerías royalty-free. Epidemic Sound y Artlist ofrecen cero reclamaciones de Content ID. YouTube Audio Library es 100% seguro
 - **NUNCA usar clips con copyright** (películas, TV, contenido de otros YouTubers) sin permiso
 
-#### Política de "AI Slop" (Julio 2025)
+#### Política de "Contenido Inauténtico" (15 de Julio 2025)
 
-YouTube requiere que el contenido sea **"significativamente original y auténtico"**. Canales que suben cientos de vídeos idénticos generados por IA masivamente enfrentan distribución reducida. Cada vídeo necesita aporte creativo original demostrable: síntesis original de información, ángulos únicos o presentación novedosa.
+Revisión mayor de políticas que renombró "contenido repetitivo" a **"contenido inauténtico"**:
 
-**Buenas prácticas:**
+YouTube requiere que el contenido sea **"significativamente original y auténtico"**. La política específicamente apunta a:
+- Narración IA sin contexto humano
+- Overlays de stock footage con voiceovers robóticas
+- "Fábricas de Top 10" producidos en masa
+- Vídeos creados desde plantilla con poca o ninguna variación
+
+**Distinción clave:** IA como herramienta (aceptable) vs IA como reemplazo completo del esfuerzo creativo (no aceptable). Contenido IA correctamente divulgado con aporte creativo genuino recibe distribución algorítmica normal.
+
+**Dato:** Vídeos "low-effort" generados por IA ven hasta 5.44x menos tráfico comparado con contenido liderado por humanos.
+
+**Buenas prácticas para cumplir la política:**
 - Añadir valor genuino y análisis original a cada vídeo
 - No simplemente reempaquetar la misma información que otros canales
 - Mantener control de calidad — revisar y personalizar cada output de IA
 - Variar el formato y temas dentro del nicho
 - Responder comentarios y construir comunidad
+- Cada vídeo necesita aporte creativo original demostrable: síntesis original de información, ángulos únicos o presentación novedosa
 
 #### Estrategia Multi-Canal
 

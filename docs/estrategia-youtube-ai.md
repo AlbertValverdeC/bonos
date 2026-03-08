@@ -1124,13 +1124,16 @@ Caída gradual y constante, sin caídas bruscas, termina en 40-60%. Indica conte
 **2. "Caída en precipicio" (primeros 30 segundos):**
 Caída brusca del 30-50% en los primeros 30 seg, luego se estabiliza. Indica: hook débil / thumbnail-título sobreprometió / intro demasiado lenta. **Solución:** Reescribir los primeros 30 segundos. Empezar con la conclusión, no con la introducción.
 
-**3. "Montaña rusa" (picos y valles):**
-Subidas y bajadas alternando. Los picos = viewers rebobinando (buena señal). Los valles = viewers saltando adelante (contenido aburrido en esas zonas). **Solución:** Identificar qué hay en los picos y crear más contenido así. Eliminar o acortar lo que hay en los valles.
+**3. "Montaña rusa / Dientes de sierra" (picos y valles):**
+Subidas y bajadas alternando. Los picos = viewers rebobinando (buena señal). Los valles = viewers saltando adelante (contenido aburrido en esas zonas). Los tutoriales de Adobe usan "pattern interrupts" estratégicos alineados con puntos de abandono predichos, creando este patrón de dientes de sierra con 43% más completaciones. **Solución:** Identificar qué hay en los picos y crear más contenido así. Eliminar o acortar lo que hay en los valles.
 
 **4. "Meseta y caída" (mid-video drop):**
 Retención estable y luego caída masiva en un punto específico. Indica que el viewer ya obtuvo lo que buscaba o que hubo un cambio de tema que perdió interés. **Solución:** Distribuir el valor más importante a lo largo del vídeo, no concentrarlo al principio.
 
-**5. "Picos por encima del 100%":**
+**5. "Puente colgante" (open loops):**
+La retención se mantiene alta mediante bucles abiertos (efecto Zeigarnik). Los vídeos de Microsoft Surface con tres open loops estratégicamente colocados lograron 68% más completaciones. **Técnica:** Anticipar lo que viene más adelante ("Pero lo más sorprendente viene en el minuto 15...") para mantener al viewer enganchado.
+
+**6. "Picos por encima del 100%":**
 Cuando la retención sube por encima del 100% en ciertos puntos = viewers rebobinando para ver de nuevo. **Esta es una señal de oro.** Crear más contenido como lo que hay en esos momentos.
 
 ##### Benchmarks de Retención por Duración de Vídeo
@@ -1142,6 +1145,10 @@ Cuando la retención sube por encima del 100% en ciertos puntos = viewers rebobi
 | 10-20 min | 40-55% | 55%+ | Menos de 35% |
 | 20-30 min | 35-50% | 50%+ | Menos de 30% |
 | 30-60 min | 30-45% | 45%+ | Menos de 25% |
+
+**Dato duro:** La retención media en TODO YouTube (2025) es solo del **23.7%** (basado en 10.000+ vídeos). Solo 1 de cada 6 vídeos (16.8%) supera el 50% de retención. Si tu vídeo de 30 minutos retiene al 40%+, estás en el top tier.
+
+**Mejorar la retención 10 puntos porcentuales correlaciona con un aumento del 25%+ en impresiones.**
 
 ##### Los Primeros 30 Segundos: La Puerta de Entrada
 
@@ -1217,6 +1224,14 @@ YouTube usa CTR y AVD (Average View Duration) juntos, no por separado:
 - Dejar que las pruebas se ejecuten completamente — no declarar ganador antes de tiempo
 - YouTube mide "watch time share", no solo CTR — un thumbnail con menos clics pero que lleva a sesiones más largas puede ganar
 - Testear una variable a la vez si es posible
+- Necesitas mínimo 1.000 impresiones para datos significativos
+- Canales que usan A/B testing ven una mejora mediana de CTR del **33%** (de 4.1% a ~5.5%). Un 1% más de CTR puede literalmente duplicar las vistas por amplificación algorítmica
+
+**Datos de diseño de thumbnails (para canales faceless):**
+- Caras con emoción fuerte aumentan CTR 20-30% (9.2% CTR vs 6.1% para diseños sin rostro) — considerar avatares IA
+- Texto de 6 palabras o menos: +24% CTR. Más de 10 palabras: -16% CTR
+- Contrastes de color brillantes: +42% CTR
+- El 72.1% de las vistas vienen de móvil — diseñar para tamaño miniatura (probar a 160×90 px)
 
 ##### El Embudo de Impresiones
 
@@ -1270,10 +1285,12 @@ YouTube evolucionó de un modelo puramente de engagement a un modelo de **satisf
 
 | Fase | Tiempo | Qué pasa | Qué mide YouTube |
 |------|--------|----------|------------------|
-| **1. Seed inicial** | 0-2 horas | Mostrado a muestra pequeña de suscriptores y viewers recientes | CTR inicial y retención temprana |
+| **1. Seed inicial** | 0-2 horas | Mostrado a ~2-3% de tus suscriptores. Si enganchan → expande a 10-15% | CTR inicial y retención temprana |
 | **2. Testing** | 2-48 horas | Si Fase 1 fue bien → mostrado a audiencia más amplia del "interest graph" (gente que ve temas similares pero no está suscrita) | CTR, retención y engagement contra esta nueva audiencia |
 | **3. Escalado** | 2-14 días | Si Fase 2 fue bien → audiencias aún más amplias. Aquí es donde los vídeos pueden "viralizarse" | Métricas consistentes en audiencias diversas |
 | **4. Long-tail** | 14+ días | El vídeo se estabiliza. Tráfico principalmente por Búsqueda y Sugeridos | Contenido evergreen puede seguir ganando vistas meses/años |
+
+**Velocidad de evaluación:** YouTube ahora toma decisiones iniciales en **4-6 horas** (antes era 24-48 horas). El algoritmo es mucho más rápido que antes para decidir si un vídeo merece distribución amplia.
 
 ##### Autoridad Temática (E-E-A-T para YouTube)
 
@@ -1460,7 +1477,37 @@ YouTube busca estas señales:
 | **Audiencia** | Returning vs nuevos, cuándo están online, demografía, **otros canales que ve tu audiencia** | Programar subidas, entender competencia, ideas de contenido |
 | **Ingresos** | RPM, CPM, fuentes de ingreso, top vídeos por ingresos, tipos de anuncio | Optimizar monetización |
 
-**Joya oculta:** La pestaña Audiencia → "Otros canales que ve tu audiencia" y "Otros vídeos que vio tu audiencia" son minas de oro para ideas de contenido e inteligencia competitiva.
+**Joya oculta #1:** La pestaña Audiencia → "Otros canales que ve tu audiencia" y "Otros vídeos que vio tu audiencia" son minas de oro para ideas de contenido e inteligencia competitiva.
+
+**Joya oculta #2:** La pestaña **Tendencias** (antes "Investigación") muestra qué busca tu audiencia y detecta "Content Gap Insights" — temas que tu audiencia quiere pero no encuentra fácilmente. Es SEO + brainstorming creativo directamente dentro de YouTube.
+
+**Nuevo en 2025 — Segmentos de audiencia:** YouTube ahora divide tu audiencia en tres segmentos (reemplazando el binario nuevo/recurrente):
+1. **Nuevos:** Primera vez viendo tu canal en el periodo seleccionado
+2. **Recurrentes:** Vieron durante 1-5 meses de los últimos 12
+3. **Leales:** Volvieron durante 6+ meses del último año
+
+#### 6.12 Datos Clave de Referencia Rápida
+
+| Métrica | Benchmark |
+|---------|-----------|
+| Retención media en YouTube (2025) | 23.7% |
+| Vídeos que superan 50% retención | Solo 16.8% (1 de cada 6) |
+| CTR bueno (rango) | 4-10% |
+| CTR Búsqueda | 8-15% |
+| CTR Browse (Home) | 3-6% |
+| Primeros 30 seg: retención ideal | 70%+ |
+| +10 pts retención → impresiones | +25% |
+| A/B test mejora mediana de CTR | 33% |
+| Ventana de evaluación del algoritmo | 4-6 horas (antes 24-48) |
+| Vídeos típicos para llegar a 1K subs | 70-80 long-form |
+| Shorts: vistas diarias globales | 200+ mil millones |
+| Q4 vs enero: prima de RPM | 50-200% más alto |
+| Penalty IA low-effort vs humano | Hasta 5.44x menos tráfico |
+| Narración IA monótona: abandono extra | 35% más en primeros 45 seg |
+| Shorts: conversión a suscriptor | 0.1-1% (vs 2-5% long-form) |
+| Crecimiento mensual subs objetivo | 2-3% (5%+ es fuerte) |
+
+**Truco de engagement:** Canales que responden a 50+ comentarios dentro de las 2 horas post-publicación ven 15-20% más alcance. El tiempo en los comentarios no es tiempo perdido — es inversión algorítmica.
 
 #### Cuándo y Cómo Pivotar
 
